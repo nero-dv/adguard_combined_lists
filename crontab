@@ -1,0 +1,1 @@
+0 * * * * /usr/bin/python3 /home/$USER/scripts/adguard_combined_lists/combine_lists.py >> /home/$USER/cron.log 2>&1 && /home/$USER/scripts/adguard_combined_lists/auto-update-adgList.sh >> /home/$USER/upload.log 2>&1
