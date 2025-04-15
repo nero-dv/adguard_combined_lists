@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import requests
 
 # List of URLs for the .txt files to download.
