@@ -9,7 +9,8 @@ urls = [
     "https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt",
     "https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt",
     "https://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt",
-    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt"
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt",
+    "https://easylist.to/easylist/easyprivacy.txt"
 ]
 
 unique_lines = set()
@@ -25,16 +26,13 @@ for url in urls:
         continue
 
     for line in text.splitlines():
-        if line.startswith("||"):
-            if line not in unique_lines:
-                unique_lines.add(line)
-                output_lines.append(line)
-            else:
-                pass
-        else:
+        if line not in unique_lines:
+            unique_lines.add(line)
             output_lines.append(line)
+        else:
+            pass
 
-output_filename = "adguard_combined_list.txt"
+output_filename = "/home/lemon/scripts/adguard_combined_lists/adguard_combined_list.txt"
 with open(output_filename, "w", encoding="utf-8") as f:
     for line in output_lines:
         f.write(line + "\n")

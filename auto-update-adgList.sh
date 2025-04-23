@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd /home/$USER/scripts/adguard_combined_lists
+cd /home/lemon/scripts/adguard_combined_lists
 
 # Check for changes
 if git diff --quiet adguard_combined_list.txt; then
