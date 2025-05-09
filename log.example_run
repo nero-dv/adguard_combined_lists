@@ -1,0 +1,93 @@
+2025-05-09 16:25:51,475 - INFO - Starting update process.
+2025-05-09 16:25:51,485 - INFO - Successfully connected to Redis at localhost:6379
+2025-05-09 16:25:51,492 - INFO - Old combined fingerprint from Redis: None
+2025-05-09 16:25:51,493 - INFO - Creating processing tasks for 7 URLs.
+2025-05-09 16:25:51,500 - INFO - Processing URL: https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt
+2025-05-09 16:25:51,500 - INFO - GET request for: https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt
+2025-05-09 16:25:51,602 - INFO - Processing URL: https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt
+2025-05-09 16:25:51,603 - INFO - GET request for: https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt
+2025-05-09 16:25:51,604 - INFO - Processing URL: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
+2025-05-09 16:25:51,604 - INFO - GET request for: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
+2025-05-09 16:25:51,604 - INFO - Processing URL: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
+2025-05-09 16:25:51,605 - INFO - GET request for: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
+2025-05-09 16:25:51,605 - INFO - Processing URL: https://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt
+2025-05-09 16:25:51,606 - INFO - GET request for: https://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt
+2025-05-09 16:25:51,606 - INFO - Processing URL: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt
+2025-05-09 16:25:51,606 - INFO - GET request for: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt
+2025-05-09 16:25:51,607 - INFO - Processing URL: https://easylist.to/easylist/easyprivacy.txt
+2025-05-09 16:25:51,607 - INFO - GET request for: https://easylist.to/easylist/easyprivacy.txt
+2025-05-09 16:25:51,683 - INFO - Successfully downloaded content for https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt.
+2025-05-09 16:25:51,684 - INFO - Content changed or new for: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
+2025-05-09 16:25:51,697 - INFO - Successfully downloaded content for https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt.
+2025-05-09 16:25:51,697 - INFO - Content changed or new for: https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt
+2025-05-09 16:25:51,714 - INFO - Successfully downloaded content for https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt.
+2025-05-09 16:25:51,715 - INFO - Content changed or new for: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
+2025-05-09 16:25:51,765 - INFO - Successfully downloaded content for https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt.
+2025-05-09 16:25:51,772 - INFO - Content changed or new for: https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt
+2025-05-09 16:25:51,940 - INFO - Successfully downloaded content for https://easylist.to/easylist/easyprivacy.txt.
+2025-05-09 16:25:51,949 - INFO - Content changed or new for: https://easylist.to/easylist/easyprivacy.txt
+2025-05-09 16:25:52,215 - INFO - Successfully downloaded content for https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt.
+2025-05-09 16:25:52,244 - INFO - Content changed or new for: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt
+2025-05-09 16:25:52,723 - INFO - Successfully downloaded content for https://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt.
+2025-05-09 16:25:52,811 - INFO - Content changed or new for: https://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt
+2025-05-09 16:25:53,651 - INFO - Finished processing all URL tasks.
+2025-05-09 16:25:53,653 - INFO - Changes detected for URL: https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt
+2025-05-09 16:25:53,653 - INFO - Changes detected for URL: https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt
+2025-05-09 16:25:53,653 - INFO - Changes detected for URL: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
+2025-05-09 16:25:53,653 - INFO - Changes detected for URL: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
+2025-05-09 16:25:53,653 - INFO - Changes detected for URL: https://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt
+2025-05-09 16:25:53,653 - INFO - Changes detected for URL: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt
+2025-05-09 16:25:53,654 - INFO - Changes detected for URL: https://easylist.to/easylist/easyprivacy.txt
+2025-05-09 16:25:53,654 - INFO - Reason to rebuild: One or more list contents changed or processed anew.
+2025-05-09 16:25:53,654 - INFO - Current combined fingerprint of processed lists: b844b873f170118acee07c125d8a4ded5b69da1a0d6e8d7beff5df1cc57ea6d1
+2025-05-09 16:25:53,654 - INFO - Reason to rebuild: Combined fingerprint of all lists changed.
+2025-05-09 16:25:53,654 - INFO - Rebuilding combined list...
+2025-05-09 16:25:56,694 - INFO - Successfully wrote 808931 unique lines to /home/lemon/scripts/adguard_combined_lists/adguard_combined_list.txt
+2025-05-09 16:25:56,694 - INFO - Updating Redis cache metadata.
+2025-05-09 16:25:56,709 - INFO - Redis combined fingerprint updated.
+2025-05-09 16:25:56,711 - INFO - Redis connection closed.
+2025-05-09 16:25:56,711 - INFO - Update process finished.
+2025-05-09 16:32:11,183 - INFO - Starting update process.
+2025-05-09 16:32:11,195 - INFO - Successfully connected to Redis at localhost:6379
+2025-05-09 16:32:11,203 - INFO - Old combined fingerprint from Redis: b844b873f170118acee07c125d8a4ded5b69da1a0d6e8d7beff5df1cc57ea6d1
+2025-05-09 16:32:11,204 - INFO - Creating processing tasks for 7 URLs.
+2025-05-09 16:32:11,213 - INFO - Processing URL: https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt
+2025-05-09 16:32:11,213 - INFO - HEAD request for: https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt
+2025-05-09 16:32:11,361 - INFO - Processing URL: https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt
+2025-05-09 16:32:11,362 - INFO - HEAD request for: https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt
+2025-05-09 16:32:11,364 - INFO - Processing URL: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
+2025-05-09 16:32:11,364 - INFO - HEAD request for: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
+2025-05-09 16:32:11,365 - INFO - Processing URL: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
+2025-05-09 16:32:11,366 - INFO - HEAD request for: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
+2025-05-09 16:32:11,368 - INFO - Processing URL: https://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt
+2025-05-09 16:32:11,368 - INFO - HEAD request for: https://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt
+2025-05-09 16:32:11,370 - INFO - Processing URL: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt
+2025-05-09 16:32:11,371 - INFO - HEAD request for: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt
+2025-05-09 16:32:11,373 - INFO - Processing URL: https://easylist.to/easylist/easyprivacy.txt
+2025-05-09 16:32:11,373 - INFO - HEAD request for: https://easylist.to/easylist/easyprivacy.txt
+2025-05-09 16:32:11,485 - INFO - HEAD response status for https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt: 304
+2025-05-09 16:32:11,486 - INFO - Cache hit (304 Not Modified) for: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt
+2025-05-09 16:32:11,489 - INFO - HEAD response status for https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt: 304
+2025-05-09 16:32:11,490 - INFO - Cache hit (304 Not Modified) for: https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt
+2025-05-09 16:32:11,491 - INFO - HEAD response status for https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt: 304
+2025-05-09 16:32:11,492 - INFO - Cache hit (304 Not Modified) for: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
+2025-05-09 16:32:11,502 - INFO - HEAD response status for https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt: 304
+2025-05-09 16:32:11,502 - INFO - Cache hit (304 Not Modified) for: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
+2025-05-09 16:32:11,511 - INFO - HEAD response status for https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt: 304
+2025-05-09 16:32:11,512 - INFO - Cache hit (304 Not Modified) for: https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt
+2025-05-09 16:32:11,519 - INFO - HEAD response status for https://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt: 304
+2025-05-09 16:32:11,520 - INFO - Cache hit (304 Not Modified) for: https://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt
+2025-05-09 16:32:11,563 - INFO - Using cached filtered content from Redis for https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
+2025-05-09 16:32:11,576 - INFO - Using cached filtered content from Redis for https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
+2025-05-09 16:32:11,577 - INFO - HEAD response status for https://easylist.to/easylist/easyprivacy.txt: 304
+2025-05-09 16:32:11,578 - INFO - Cache hit (304 Not Modified) for: https://easylist.to/easylist/easyprivacy.txt
+2025-05-09 16:32:11,586 - INFO - Using cached filtered content from Redis for https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt
+2025-05-09 16:32:11,632 - INFO - Using cached filtered content from Redis for https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt
+2025-05-09 16:32:11,710 - INFO - Using cached filtered content from Redis for https://easylist.to/easylist/easyprivacy.txt
+2025-05-09 16:32:11,867 - INFO - Using cached filtered content from Redis for https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt
+2025-05-09 16:32:12,362 - INFO - Using cached filtered content from Redis for https://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt
+2025-05-09 16:32:12,363 - INFO - Finished processing all URL tasks.
+2025-05-09 16:32:12,365 - INFO - Current combined fingerprint of processed lists: b844b873f170118acee07c125d8a4ded5b69da1a0d6e8d7beff5df1cc57ea6d1
+2025-05-09 16:32:12,366 - INFO - No changes detected in source lists. '/home/lemon/scripts/adguard_combined_lists/adguard_combined_list.txt' is up-to-date.
+2025-05-09 16:32:12,368 - INFO - Redis connection closed.
+2025-05-09 16:32:12,368 - INFO - Update process finished.
