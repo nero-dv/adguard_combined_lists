@@ -179364,7 +179364,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||coomb.co^
 ||coombrecuse.com^
 ||coomcast.weebly.com^
-||coomer.st/api/v1/creators|
 ||coonasscover.com^
 ||cooncan-offers.com^
 ||cooncdishe.pro^
@@ -363914,7 +363913,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||kemni.vip^
 ||kemomue.com^
 ||kemone.cn^
-||kemono.cr/api/v1/creators|
 ||kemostarlogistics.co.ke^
 ||kemover.com^
 ||kempenfietst.be^
