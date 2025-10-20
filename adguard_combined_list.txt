@@ -321447,6 +321447,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||inetprocess.actonservice.com^
 ||inetrek.com^
 ||inetstatic.com/tracking/
+||inetstats.org^$third-party
 ||inetwork2uvip.com^
 ||inetzon.com^
 ||inetzreact.com^
