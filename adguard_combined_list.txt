@@ -5462,7 +5462,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||023rcsc.com^
 ||023ree.com^
 ||023rs4ffef.weebly.com^
-||023traff4hugedomains.weebly.com^
 ||023tzxl.com^
 ||023xcxx.com^
 ||023yl.net^
@@ -7637,7 +7636,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||0985567879.com^
 ||0987.win^
 ||09875e781e0026d3.com^
-||098768765dave.weebly.com^
 ||0988003679.com^
 ||0988576657456223.weebly.com^
 ||098b7dc1f36de6c6.com^
@@ -8478,6 +8476,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||0fef27b403a33fa66191944e93115e42.xyz^
 ||0ff2ba01c1015.beer^
 ||0ff3f95771011.beer^
+||0ff45719-2e69-4ef0-91bd-4c01bce3f5ab-00-325o1z1mbm1cf.spock.replit.dev^
 ||0ff5b23b1b9f.info^
 ||0ff8b01641016.beer^
 ||0ff95357abc3e2fd.com^
@@ -8499,6 +8498,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||0g-labs.com^
 ||0g-labs.net^
 ||0g-labs.run^
+||0g.su-4n.ru^
 ||0g3wn9mr3cab.top^
 ||0gamestop.com^
 ||0gb.us^
@@ -8663,6 +8663,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||0ptmst3q.com^
 ||0pv.dlun-7.ru^
 ||0pz8pj.top^
+||0q.xvo4.ru^
 ||0q0cgj.click^
 ||0q92o.cfd^
 ||0q9d.com^
@@ -8885,6 +8886,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||0xwcqdicxiqx1b0yocp.cfd^
 ||0xwindows.xyz^
 ||0xzz.com^
+||0y.slaq.ru^
 ||0y7inwbwod.com^
 ||0yaorvnf7.top^
 ||0youtube.com^
@@ -13164,7 +13166,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||157a8bea38cc73c3.com^
 ||157e99a812de5180.com^
 ||157xfulisuo.xyz^
-||158-158-1-64.cprapid.com^
 ||158023-coinbase.com^
 ||15802debba.com^
 ||15812815.top^
@@ -13958,6 +13959,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||178-158-196-3.com^
 ||178-175-180-1.shop^
 ||178-192-145-0-1.shop^
+||178.248.3.202.ll.sta.mana.pf^
 ||178080.com^
 ||1781b5ebd363.com^
 ||1782236572.my.id^
@@ -16329,6 +16331,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||1nur.com^
 ||1nvestments.org^
 ||1nvu.com^
+||1o.r8li.ru^
 ||1o1birekstra.click^
 ||1o1birekstrac.click^
 ||1o1birekstracan.click^
@@ -17342,7 +17345,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||2025task.com^
 ||2025tk-shop.com^
 ||2025tkmall-job.com^
-||2025tkqt.nyopyznciq.my^
 ||2025trackingservice-anpost.info^
 ||2025trgroupus.com^
 ||2025usersurveyss.store^
@@ -17593,6 +17595,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||21-dream.com^
 ||21-media.com^
 ||21.fh21static.com^
+||21.su4n.ru^
 ||21.to^
 ||210040bcd7d3685f.com^
 ||21010054e1022.beer^
@@ -18541,7 +18544,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||240eb38b43.com^
 ||240eba108861d5b7.com^
 ||240zb.com^
-||2410-auth-adss-platform0.ubpages.com^
 ||24124.com^
 ||2412491823.com^
 ||2413af5f4024.com^
@@ -21142,6 +21144,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||2leep.com^
 ||2legend.com^
 ||2lemonde.fr^
+||2lh.i-c-81.ru^
 ||2lili.com^
 ||2linkfast.com^
 ||2linkpath.com^
@@ -22152,6 +22155,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||32.huanqiu.com^
 ||32.k59ee.ru^
 ||32.wtok2.ru^
+||32000ff.fit^
 ||32001005addheau507.shop^
 ||32001005afcmsvl452.shop^
 ||32001005badiueq882.shop^
@@ -22446,6 +22450,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||32win.top^
 ||32wwkk.com^
 ||33.bb3y5.ru^
+||33.njur.ru^
 ||330044d9e2fe59a0.com^
 ||330206975059380047.shop^
 ||33042945e1015.beer^
@@ -26835,6 +26840,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||4390bb7f1e71c5fe.com^
 ||439167d0f3ee9c3d.com^
 ||4393dc9001013.beer^
+||4393eb8c.solaraweb-alj.pages.dev^
 ||43966196346e.info^
 ||43966233.top^
 ||43968f68e1b835bd.com^
@@ -27176,7 +27182,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||452tapgn.de^
 ||45314769.com^
 ||453433gmail.com^
-||4535.weebly.com^
 ||453521.xyz^
 ||4536e19398.com^
 ||453a.vip^
@@ -28923,7 +28928,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||4g-antenner.com^
 ||4g0b1inr.de^
 ||4g1pk.shop^
-||4g5ebbfd.bentley-vip-service.de^
 ||4game.club^
 ||4gateway.net^
 ||4gb1t756j.shop^
@@ -29316,6 +29320,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||4winmobile.com^
 ||4wisemonkeys.com^
 ||4witter.com^
+||4wj.o-b-79.ru^
 ||4wmarketplace.com^
 ||4wmg.com^
 ||4wmiuiyd70.com^
@@ -29368,7 +29373,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||4zywioly.org^
 ||5-0taxi.com^
 ||5-123.com^
-||5-157-110-232.dyn.eolo.it^
 ||5-253-86-21.cprapid.com^
 ||5-3red.com^
 ||5-apple.top^
@@ -30070,7 +30074,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||51jiuhe.com^
 ||51jkml.com^
 ||51jukang.com^
-||51jx-q.vercel.app^
 ||51kawdfdg.cfd^
 ||51korean.com^
 ||51lg.com^
@@ -30156,6 +30159,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||52-google.com^
 ||52-yn.com^
 ||52.nu^
+||52.t4mox.ru^
 ||5200152001.xyz^
 ||5200447943.my.id^
 ||5200dyy.com^
@@ -31443,6 +31447,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||5676734.top^
 ||567768.com^
 ||567789abbc.top^
+||5678018.com^
 ||567851215561211f9813c0c4234d18f2a5f.com^
 ||56785341f9813c0c4d18f3243242a5f.com^
 ||567855561211f9813c0c4234d18f2a5f.com^
@@ -32538,6 +32543,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||5awcbno.com^
 ||5axtech.com^
 ||5azvpjx8xj.com^
+||5b.g-lim.ru^
 ||5b011a1901014.beer^
 ||5b025cnm.top^
 ||5b06f0fdb7b5.com^
@@ -32939,6 +32945,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||5e-confirmation.com^
 ||5e-confirms.com^
 ||5e-playconfirm.com^
+||5e.t4mox.ru^
 ||5e00.pandasuite.io^
 ||5e0549d93a0bacf593b004d64d1b1097.com^
 ||5e082c3e1e3a7ba9.com^
@@ -33700,6 +33707,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||60a70d86a24f.top^
 ||60a87f7a9fdf305efe337d548affcc55.com^
 ||60a90938e234.com^
+||60aaf9c6.salamanderprocessing.pages.dev^
 ||60abaa5341021.beer^
 ||60aedd702d2340c8.com^
 ||60alfredo.odc-conecta.com^
@@ -33919,7 +33927,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||61ab31843012c602.com^
 ||61abcaa111020.beer^
 ||61ad0b0581023.beer^
-||61b4fea9a1f98c0a086eb430d5ff2c63.loophole.site^
 ||61b537ecc5f80bea.com^
 ||61bbd77d501d8dba.com^
 ||61bcd512dee8681b.com^
@@ -36631,7 +36638,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||6d0f372207cabc217ed07a46d61d3766.com^
 ||6d0f55da54d48f82fa759a3cb08814dc.shop^
 ||6d134274fab63e87873e455dd5ef3f30.com^
-||6d15fce9b4793ca2b766a5ea7df67a34.loophole.site^
 ||6d1a514a72581034.com^
 ||6d1afe1111014.beer^
 ||6d2.cn^
@@ -37137,6 +37143,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||6pm.com/err.cgi?
 ||6pm.com/onload.cgi?
 ||6pm.com/track.cgi?
+||6pm1.pilot45.com^
 ||6pmbet.com^
 ||6pn6jkg5.odoo.com^
 ||6pointdrive.com^
@@ -37180,6 +37187,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||6swu.cpa-france.org^
 ||6sysj.cc^
 ||6sz.ru^
+||6t.jeqr.ru^
 ||6t.nz^
 ||6t.pm^
 ||6t.xr-7-a-0.ru^
@@ -37194,6 +37202,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||6u2h.cn^
 ||6u6ex6q.top^
 ||6u6k.com^
+||6uiiii.weebly.com^
 ||6uitk5fk7.top^
 ||6ujk8x9soxhm.com^
 ||6umg8a.sbs^
@@ -41212,7 +41221,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||77yue.com^
 ||77zf.asia^
 ||77zz7.com^
-||78-20-115-5.access.telenet.be^
 ||78-85-522-3656.cfd^
 ||78.46.19.203^$third-party,domain=~sprueche-zitate.net.ip
 ||78.slaq.ru^
@@ -42774,6 +42782,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||7cs-xcellency.com^
 ||7cwm3y57gd.top^
 ||7d.wf^
+||7d.ziqa.ru^
 ||7d00ac22a7aa.com^
 ||7d01d.v.fwmrm.net^
 ||7d025730b1010.beer^
@@ -43386,6 +43395,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||7rag9q1on.com^
 ||7ransom.net^
 ||7rb.xyz^
+||7rcl.o-b-79.ru^
 ||7rcli.crserigrafia.com^
 ||7re4.xyz^
 ||7re8.com^
@@ -43484,6 +43494,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||7w.lobd.ru^
 ||7w.ro/js/trk.js
 ||7w.ro^
+||7w.rvox.ru^
 ||7w8dv12bl6bs86.xyz^
 ||7w8hoi6o9wf.shop^
 ||7waysltd.com^
@@ -43808,6 +43819,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||80xy.com^
 ||81-19-23-183.netw.fr^
 ||81-google.com^
+||81.t4mox.ru^
 ||810031.com^
 ||81015449c0.com^
 ||810325d4df42.com^
@@ -47959,6 +47971,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||8cpm98cpm9.berkahplis.com^
 ||8cqss7xsyvg2v.xyz^
 ||8d.derl.ru^
+||8d.ko-lu.ru^
 ||8d007985110b4e41.com^
 ||8d05c7cbcec8c6f7.com^
 ||8d05f2516e83d834.com^
@@ -48362,7 +48375,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||8hg5d08h.top^
 ||8hgapp.com^
 ||8highlight.xyz^
-||8hkjj8ujoo.vercel.app^
 ||8hubrjmwo.net^
 ||8hwsss-588186com.xyz^
 ||8hxw.tap3919k7y.cc^
@@ -48581,6 +48593,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||8uw4.com^
 ||8uz5ug.cfd^
 ||8uzojp.click^
+||8v.njur.ru^
 ||8v.ro^
 ||8v08mjri7.com^
 ||8v0r7f5.blog^
@@ -48792,7 +48805,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||9067337a697a.top^
 ||906846682a566102.com^
 ||90684ff5686174d0.com^
-||9068b4e84c812001ecab3ddc66da29b0.loophole.site^
 ||906960efd945.com^
 ||9069a268cb31b6c6.com^
 ||9069a6492021235c98cf5ea7b538bec3.com^
@@ -49869,6 +49881,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||94400.org^
 ||944048195ae9c084.com^
 ||944277d1c2553755ad11f07a6829a73d.sbs^
+||944348556437879646874655133977kwtnvrjppyrwhwx.adelon.com.br^
 ||94444717.xyz^
 ||94454.mobi^
 ||9445b30d830fae82.com^
@@ -52727,6 +52740,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||9ypm627kpa.top^
 ||9yt2d-brh45j-wmlaea.work^
 ||9ywl0cwf7e37m5yi.tapin.gg^
+||9z.m7lo.ru^
 ||9z2pyt.top^
 ||9z9fr.icu^
 ||9zavav.com^
@@ -60536,6 +60550,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||aayadx.vip^
 ||aayamforce.com^
 ||aayanfard.com^
+||aayankhan0-tech.github.io^
 ||aayohsk.top^
 ||aaysplusmtogether-bsspg.com^
 ||aayu.info^
@@ -61512,6 +61527,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||abhinavprakash.com^
 ||abhishek-indicc.com^
 ||abhishek.guru^
+||abhishekgadmale.github.io^
 ||abhishekshiva.com^
 ||abhmancnvqweb.site^
 ||abholungseinladungen.ch^
@@ -63472,7 +63488,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||accesslnk.com^
 ||accessmembersecureob.com^
 ||accessment.help^
-||accessmymtsbillexplainer-274684.weebly.com^
 ||accessmyvdi.com^
 ||accessnoveltydocs.com^
 ||accesso-al-credito.com^
@@ -63843,6 +63858,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||account.topbermainlagi.com^
 ||account.trackerplus.ru^
 ||account.uivv.org^
+||account.webaccess-email.com^
 ||account.ws-reward.com^
 ||account43567.net^
 ||account800-amazon.com^
@@ -65540,6 +65556,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||active-trk7.com^
 ||active-trk7.com^$third-party
 ||active.com/ig.track.js
+||active.network-panel-zone.com^
 ||active.sangfor.com^
 ||active.wshareit.com^
 ||active24stats.nl^$third-party
@@ -65662,7 +65679,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||activity-flow.vtex.com^
 ||activity-google.com^
 ||activity-id-feedbacknow.firebaseapp.com^
-||activity-id-feedbacknow.web.app^
 ||activity-kraken.com^
 ||activity-may.vip^
 ||activity-opensea.com^
@@ -75186,7 +75202,14 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||advertiser.com^
 ||advertiser.jeeone.com^
 ||advertisercommunity.com^
-||advertisers-client-support-takedown-messaging.pages.dev^
+||advertisers-client-support-claim-guideline.pages.dev^
+||advertisers-client-support-claim-violation.pages.dev^
+||advertisers-client-support-customer-enforcement.pages.dev^
+||advertisers-client-support-disablement-assessment.pages.dev^
+||advertisers-client-support-enforcement-trademark.pages.dev^
+||advertisers-client-support-quality-policy.pages.dev^
+||advertisers-client-support-trademark-control.pages.dev^
+||advertisers-client-support-violation-transparency.pages.dev^
 ||advertisers.app-shake.com^
 ||advertisers.com.au^
 ||advertisers.truecaller.com^
@@ -75220,8 +75243,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||advertising-qa.us-east-1.dev.msc.roku.com^
 ||advertising-refund-center.surge.sh^
 ||advertising-server.amadeus.net^
-||advertising-service-governance-center.pages.dev^
-||advertising-service-management-suite.pages.dev^
 ||advertising-support.com^
 ||advertising-v3-qa.us-east-1.dev.msc.roku.com^
 ||advertising-v3.roku.com^
@@ -78779,7 +78800,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||aggiabefal.pro^
 ||aggiemaintenance.net^
 ||aggiesb.im^
-||aggio-bnpari.it^
 ||aggiob.site.tb-hosting.com^
 ||aggionarce.pro^
 ||aggiorisal.pro^
@@ -81149,6 +81169,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||airbluefootgear.com^
 ||airblur.xyz^
 ||airbnb-cabins.vip^
+||airbnb-clone-farukipekcom.vercel.app^
 ||airbnb-confirm.com^
 ||airbnb-confirmation.com^
 ||airbnb-pi-three.vercel.app^
@@ -81157,6 +81178,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||airbnb-support.fr^
 ||airbnb-verification.com^
 ||airbnb-veryfingpayments.com^
+||airbnb.invitations-reservations-guests-properties-20775027351.live^
 ||airbnb.itinerary1046227051-status.info^
 ||airbnb.jmurphyau.com^
 ||airbnb.reservation-message-captcha.com^
@@ -84925,6 +84947,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||algediduala.com^
 ||algediflidgegoosed.live^
 ||algedoau.irish^
+||algeelivlogin.gitbook.io^
 ||algensuf.ru^
 ||algeria1xbet.shop^
 ||algeria777.xyz^
@@ -86088,7 +86111,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||allegro.pl-oferta53251.sbs^
 ||allegro.pl-oferta53251.shop^
 ||allegro.pl-oferta540932199.site^
-||allegro.pl-oferta5524335.sbs^
 ||allegro.pl-oferta5577972.shop^
 ||allegro.pl-oferta5650637.shop^
 ||allegro.pl-oferta58432.cfd^
@@ -86307,6 +86329,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||allegrolokalnie.807202.shop^
 ||allegrolokalnie.812y.rest^
 ||allegrolokalnie.8186272.icu^
+||allegrolokalnie.824069.click^
 ||allegrolokalnie.8293783.shop^
 ||allegrolokalnie.8293785.shop^
 ||allegrolokalnie.830380.shop^
@@ -86370,7 +86393,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||allegrolokalnie.kategoria7491264728414.shop^
 ||allegrolokalnie.kategoriav-dom-i-ogrod-57721.top^
 ||allegrolokalnie.kategorie-inne-23423423.rest^
-||allegrolokalnie.kategorie-pozostale-92345732.sbs^
 ||allegrolokalnie.kategorie-pozostale-9366145832.sbs^
 ||allegrolokalnie.kategorie-promowane-391.shop^
 ||allegrolokalnie.kategorie-promowane-432672.rest^
@@ -86475,6 +86497,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||allegrolokalnie.oferty-kategoria-proponowane-dla-ciebie-rozne-12.sbs^
 ||allegrolokalnie.oferty-kategoria-proponowane-dla-ciebie-rozne-14.sbs^
 ||allegrolokalnie.oferty-kategoria-proponowane-dla-ciebie-rozne-15.sbs^
+||allegrolokalnie.oferty-kategoria-proponowane-dla-ciebie-rozne-16.sbs^
 ||allegrolokalnie.oferty-kategoria-proponowane-dla-ciebie-rozne-3.sbs^
 ||allegrolokalnie.oferty-kategoria-proponowane-dla-ciebie-rozne-4.sbs^
 ||allegrolokalnie.oferty-kategoria-proponowane-dla-ciebie-rozne-6.sbs^
@@ -86583,7 +86606,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||allegrolokalnie.pl-37393.cfd^
 ||allegrolokalnie.pl-37935.cfd^
 ||allegrolokalnie.pl-37941.cfd^
-||allegrolokalnie.pl-37965.cfd^
 ||allegrolokalnie.pl-37968.cfd^
 ||allegrolokalnie.pl-38848.shop^
 ||allegrolokalnie.pl-41673.cfd^
@@ -86755,6 +86777,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||allegrolokalnie.pl-oferta-918382.sbs^
 ||allegrolokalnie.pl-oferta-elektronika-345893457.icu^
 ||allegrolokalnie.pl-oferta-elektronika-4338748905.icu^
+||allegrolokalnie.pl-oferta-elektronika-49857325.icu^
 ||allegrolokalnie.pl-oferta-elektronika-fkdjou384h9tfs.icu^
 ||allegrolokalnie.pl-oferta-elektronika-fkgj384tiaghdfs.icu^
 ||allegrolokalnie.pl-oferta-elektronika-hku4568dhsguwahy.icu^
@@ -86798,7 +86821,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||allegrolokalnie.pl-oferta3559192.sbs^
 ||allegrolokalnie.pl-oferta35912351.shop^
 ||allegrolokalnie.pl-oferta3642127.shop^
-||allegrolokalnie.pl-oferta366877599.sbs^
 ||allegrolokalnie.pl-oferta3712.shop^
 ||allegrolokalnie.pl-oferta3772821.cfd^
 ||allegrolokalnie.pl-oferta394521.icu^
@@ -86874,7 +86896,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||allegrolokalnie.pl-oferta7955561.shop^
 ||allegrolokalnie.pl-oferta7983724.shop^
 ||allegrolokalnie.pl-oferta8182521.shop^
-||allegrolokalnie.pl-oferta82106556612536125365126.cfd^
 ||allegrolokalnie.pl-oferta825265312.shop^
 ||allegrolokalnie.pl-oferta825372639.com^
 ||allegrolokalnie.pl-oferta826327524.com^
@@ -86996,7 +87017,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||allegrolokalnie.polecany-sprzedawca.shop^
 ||allegrolokalnie.ppl-ogloszenie854125.icu^
 ||allegrolokalnie.promo-okazje-5722.sbs^
-||allegrolokalnie.promo-okazje-inne29942.sbs^
 ||allegrolokalnie.promo-okazje-lato883.sbs^
 ||allegrolokalnie.promowane-ogloszenia889.shop^
 ||allegrolokalnie.proponowane-4294.shop^
@@ -90170,9 +90190,9 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||amazon-billing-security.net^
 ||amazon-blackfriday.shop^
 ||amazon-bridge.com^
-||amazon-clone-alpha-gilt-89.vercel.app^
-||amazon-clone-five-azure-81.vercel.app^
+||amazon-clone-95e6.vercel.app^
 ||amazon-clone-olive-psi.vercel.app^
+||amazon-clone-seven-pearl.vercel.app^
 ||amazon-clone.abdullahbaig.info^
 ||amazon-clone.digiorgio.dev^
 ||amazon-cloudwatch.digital^
@@ -90958,6 +90978,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||amefvin.xyz^
 ||amegamarketing.com^
 ||amegawestparc.com^
+||amegenerallog.weebly.com^
 ||amegroup.com^
 ||amehuke.top^
 ||amei.app^
@@ -92909,6 +92930,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||anaheimss.info^
 ||anahidsinsekcouture.com^
 ||anahitagirted.uno^
+||anahuac2026m.weebly.com^
 ||anahuac9.weebly.com^
 ||anahuacsecurity.weebly.com^
 ||anai-office.jp^
@@ -98467,6 +98489,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||ankiety-tv.pl^
 ||ankingannulsaraby.fun^
 ||ankingapplierapprend.shop^
+||ankita-gupta83.github.io^
 ||ankitaraghav.com^
 ||ankitsinghrathore.com^
 ||ankja.online^
@@ -107216,6 +107239,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||araujopecas.online^
 ||araujoquaresma.com^
 ||arauraickeeftab.net^
+||arav-bishnoi.github.io^
 ||arava-vision.net^
 ||aravavisionapp.com^
 ||aravera.net^
@@ -114608,7 +114632,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||att-sign-in-104448.weeblysite.com^
 ||att-t.bitbucket.io^
 ||att-user-y6fhvrerdgdgd4s.boxmode.io^
-||att-yahoo-mail-106498.weeblysite.com^
 ||att.daftpage.com^
 ||att.gr8people.com^
 ||att.mpeasylink.com^
@@ -114645,6 +114668,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||attachednotefile-log.myportfolio.com^
 ||attachedsuck.com^
 ||attachedtalk.pro^
+||attachmentilesofmyresumeforyoureference.weebly.com^
 ||attachtout.info^
 ||attackedadrift.com^
 ||attackofthesugarmonster.com^
@@ -115202,6 +115226,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||au.res.keymedia.com^
 ||au.stockx.life^
 ||au.tottedwasel.com^
+||au.twy0.ru^
 ||au01.bid^
 ||au101.biz^
 ||au233st.urbanizacionlagosazules.com^
@@ -116758,6 +116783,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||auth-ldger-co-us.pages.dev^
 ||auth-ldgr-live-logn.pages.dev^
 ||auth-ledger-login.pages.dev^
+||auth-legrwalite-eng.pages.dev^
 ||auth-livelger-learn.pages.dev^
 ||auth-log.icu^
 ||auth-login-user.firebaseapp.com^
@@ -116767,7 +116793,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||auth-mail.com^
 ||auth-manager-paiement.com^
 ||auth-metamsk-log.pages.dev^
-||auth-minepi.pro^
 ||auth-mobile.com^
 ||auth-myplus.com^
 ||auth-na.hismarttv.com^
@@ -117125,7 +117150,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||auths-messagerie-prorange-assurances.com^
 ||auths-messagerieprorange-assurances.com^
 ||auths-org.shop^
-||auths-terzors-lve.pages.dev^
 ||authscotiaonline-scotiabank.com^
 ||authsecure.pro^
 ||authserver-us.com^
@@ -117582,7 +117606,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||autonorkho.ru^
 ||autonueve.com^
 ||autoofficer.xyz^
-||autoonlineupdate028752940889php.weebly.com^
 ||autoopas.com^
 ||autoordnancefirearms.com^
 ||autopaper.autos^
@@ -119254,6 +119277,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||awcrpu.com^
 ||awcupw270.com^
 ||awd.spochak.com^
+||awddocfile.thewestfieldcrestllc.info^
 ||awdeliverynet.com^
 ||awderlium.bunney.eu^
 ||awdfkryyfgmqd.website^
@@ -120521,7 +120545,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||ayo7p.icu^
 ||ayoadesina.com^
 ||ayodanuauw.com^
-||ayodele-alayemi-airbnb-clone.vercel.app^
 ||ayodhyainterior.com^
 ||ayodisdukcapil.com^
 ||ayodowa.top^
@@ -125107,6 +125130,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||bafybeibb3wv3ybyv4xiobvobpdrfiqd7bm3iecwrmw6gykseyv2c2esfga.ipfs.dweb.link^
 ||bafybeibednalgwbl72zf6kml3rrbyabnk2k2nxm6j3szad2lemlagypcda.ipfs.dweb.link^
 ||bafybeibioduijf64fdmpxpbynru7ruinmi6rwnkfbrbdgqbt32exyxprmu.ipfs.dweb.link^
+||bafybeibkbwhd66vsgqu5n6n36clzhocy66gowcq46isrci6kbeqee6vwue.ipfs.dweb.link^
 ||bafybeibmh5wtv6u6htshlkgwj5tm32caaubrmvziyd4k6kirzwee4uckty.ipfs.dweb.link^
 ||bafybeibnkcf3t5gnn73ws6mzy3ntctlha4dzc6wkkhrzypck6uzdth37pm.ipfs.dweb.link^
 ||bafybeibpl4pwq2pyhxhmlfjti5qnglejcs774zzxwimmjpbxxlsp4cdvti.ipfs.dweb.link^
@@ -128991,9 +129015,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||bau-profis24.de^
 ||bauama.com^
 ||baubertrading.com^
-||baucarshopee1419.weebly.com^
 ||baucarshopee1422.weebly.com^
-||baucarshopee1439.weebly.com^
 ||baucheedoa.net^
 ||bauchle.irish^
 ||baucisbauleahbawrel.blog^
@@ -130341,13 +130363,11 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||bci.ingresacuenta.sbs^
 ||bciab.top^
 ||bciaz.top^
-||bcibd.top^
 ||bcibe.top^
 ||bcibf.top^
 ||bcibg.top^
 ||bcibnews.com^
 ||bcico.top^
-||bcidi.top^
 ||bcieurobib.com^
 ||bciexg.top^
 ||bcifd.top^
@@ -130599,6 +130619,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||bd.xn--94b3a0ci1b4era4e.com^
 ||bd.yxb-au.ru^
 ||bd.z1u2z.ru^
+||bd.ziqa.ru^
 ||bd003965437fed73.com^
 ||bd01580b61020.beer^
 ||bd02104f2515c192.com^
@@ -131053,6 +131074,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||bduwxpz.com^
 ||bdv-defender.pro^
 ||bdv-online1.webcindario.com^
+||bdvaenlinea.com^
 ||bdvag.loveezone.com^
 ||bdvcredic2024.webcindario.com^
 ||bdvcreditove.webcindario.com^
@@ -133107,7 +133129,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||belkuchi.com^
 ||bell-02.com^
 ||bell-03.com^
-||bell-109156.weeblysite.com^
 ||bell-bara.com^
 ||bell-gassdor.com^
 ||bell-promotions.com^
@@ -135575,6 +135596,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||bestriver.xyz^
 ||bestrogue.xyz^
 ||bestround.xyz^
+||bestroute.aiko.com.mx^
 ||bestrtps.acsprint.shop^
 ||bestruler.xyz^
 ||bestrules.xyz^
@@ -135823,9 +135845,11 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||bet365-373.com^
 ||bet365-855.com^
 ||bet365-argentina1.com^
+||bet365-ff.com^
 ||bet365-mexico1.com^
 ||bet365.de/Members/*&affiliate=$subdocument,third-party
 ||bet365.rest^
+||bet365003.cc^
 ||bet3650037.com^
 ||bet365092.com^
 ||bet365218.com^
@@ -135905,6 +135929,11 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||bet6755.com^
 ||bet73010.com^
 ||bet73011.com^
+||bet73013.com^
+||bet73020.com^
+||bet73032.com^
+||bet73053.com^
+||bet73059.com^
 ||bet73091.com^
 ||bet777red.com^
 ||bet7br.online^
@@ -145763,6 +145792,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||bluesky-hk.com^
 ||bluesky-tracker.extensionsfox.com^
 ||blueskyactivecontrol.com^
+||blueskyautismcenter.com^
 ||blueskycargoes.com^
 ||blueskyconcepts.in^
 ||blueskyconnection.sa.com^
@@ -148194,6 +148224,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||bonusbetcasinologin777.fr^
 ||bonusbitcoin.co^
 ||bonusbob.de^
+||bonusbossdomino99.weebly.com^
 ||bonuscake.ru^
 ||bonuscart.shop^
 ||bonuscasinoexpert.fr^
@@ -148403,7 +148434,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||booking-adriana-cavtat.com^
 ||booking-apartments-pay.com^
 ||booking-aprilreviewstir-9650233.com^
-||booking-clone-neon.vercel.app^
+||booking-com-teal.vercel.app^
 ||booking-com.fr^
 ||booking-com.makorsevents.com^
 ||booking-concierge.com^
@@ -150853,7 +150884,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||bphx.com^
 ||bphxiy.com^
 ||bpi.briteverify.com^
-||bpi.particulares.site^
 ||bpi.zip.co/trx/
 ||bpi3.qpon^
 ||bpibenco.com^
@@ -152231,6 +152261,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||brattycaliclecamises.cfd^
 ||brattysisporn.com^
 ||bratueaffy.shop^
+||bratusferramentas.grupomoltz.com.br^
 ||bratut.com^
 ||bratya-po-oryzhiyu-lordfilm.ru^
 ||bratza.com^
@@ -153218,7 +153249,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||bridge-polygon.com^
 ||bridge-store.com^
 ||bridge-sui.org^
-||bridge-trazor-en.pages.dev^
 ||bridge-trezo-cdn.github.io^
 ||bridge-trezor--io.pages.dev^
 ||bridge-useraccount-swap.cc^
@@ -154172,7 +154202,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||brokensoul.ga^
 ||brokentulip.nl^
 ||brokenyreach.shop^
-||broker-bonus.cfd^
 ||broker-feedback.com^
 ||broker-group.com^
 ||broker-live.mozillamessaging.com^
@@ -156832,7 +156861,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||bufyxi.com^
 ||bufz163.com^
 ||bug-a-lugs.com^
-||bug-brain-chorus-released.trycloudflare.com^
 ||bug.onlinedating.de^
 ||bug.snptechno.com^
 ||bug2.onlyfans.com^
@@ -158146,11 +158174,46 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||business-eventco.com^
 ||business-facebook-*.pages.dev^
 ||business-financial-management-software-3012.click^
-||business-for-galvora.pages.dev^
-||business-for-hynvero-dvj.pages.dev^
-||business-for-lenqora-9cv.pages.dev^
-||business-for-polentra.pages.dev^
+||business-for-brynvero-4bn.pages.dev^
+||business-for-brynvero-7c7.pages.dev^
+||business-for-brynvero-b5e.pages.dev^
+||business-for-brynverokjjk.pages.dev^
+||business-for-flonveroui.pages.dev^
+||business-for-groxentrahg.pages.dev^
+||business-for-hynvero-4k0.pages.dev^
+||business-for-hynvero-58a.pages.dev^
+||business-for-hynvero-9mk.pages.dev^
+||business-for-hynvero-9pg.pages.dev^
+||business-for-hynverodfgh.pages.dev^
+||business-for-hynveroyu-c4j.pages.dev^
+||business-for-klyvora-6dw.pages.dev^
+||business-for-klyvora-8pl.pages.dev^
+||business-for-klyvora-9c1.pages.dev^
+||business-for-klyvora-9in.pages.dev^
+||business-for-lenvero-d1j.pages.dev^
+||business-for-lorvento-ewd.pages.dev^
+||business-for-marvento-314.pages.dev^
+||business-for-marvento-5sg.pages.dev^
+||business-for-marvexo-b6o.pages.dev^
+||business-for-provento-das.pages.dev^
+||business-for-provento-dcd.pages.dev^
+||business-for-proventoui.pages.dev^
 ||business-for-silo-studio.pages.dev^
+||business-for-synvero-6px.pages.dev^
+||business-for-synvero-qrv.pages.dev^
+||business-for-travexo-bbp.pages.dev^
+||business-for-travexo-diy.pages.dev^
+||business-for-travexo.pages.dev^
+||business-for-trevexo-6lc.pages.dev^
+||business-for-volentra-1gs.pages.dev^
+||business-for-vornexo-217.pages.dev^
+||business-for-vornexo-5i6.pages.dev^
+||business-for-vornexo-ac8.pages.dev^
+||business-for-vornexo-ebj.pages.dev^
+||business-for-vornexo-g1n.pages.dev^
+||business-for-wenvero-25f.pages.dev^
+||business-for-wenvero-dk6.pages.dev^
+||business-for-zenvero-dje.pages.dev^
 ||business-help-account-use.cfd^
 ||business-help-account.click^
 ||business-help-center-apeal.click^
@@ -159311,6 +159374,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||bw-online-vip.shop^
 ||bw.carneyfelons.com^
 ||bw.crummyevelyn.com^
+||bw.g-lim.ru^
 ||bw.ismalhamulus.com^
 ||bw.monthonamphi.com^
 ||bw.subareaknelled.shop^
@@ -159614,6 +159678,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||by.haory.cn^
 ||by.hmvu4.ru^
 ||by.kmbo6.ru^
+||by.meqt.ru^
 ||by.mywd.com^
 ||by.sockyzimmi.com^
 ||by.ty1un.ru^
@@ -159811,6 +159876,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||bylurexonat.my^
 ||bylvora.com^
 ||bylyayivska-library.online^
+||bym9n.mobi^
 ||bymarcelabauer.com^
 ||bymayke.com^
 ||bymeep.store^
@@ -161034,7 +161100,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||c34.statcounter.com^
 ||c34170b5b1017.beer^
 ||c342bebd4da6.com^
-||c3436037.salamanderprocessing.pages.dev^
 ||c346e02ead39.com^
 ||c346e1bc36e7a3a8.com^
 ||c34718cbb4c6.ngrok-free.app^
@@ -163432,7 +163497,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||calendarcouchsecond.com^
 ||calendareveryday.com^
 ||calendariodeconteudo.com^
-||calendariodediversidad.com^
 ||calendarironical.com^
 ||calendarlive.com^
 ||calendarm.com^
@@ -164039,7 +164103,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||camelactivemalaysia.com^
 ||camelapi.icu^
 ||camelat.ru^
-||camelboat.n-e.kr^
 ||camelee.cn^
 ||cameleer.top^
 ||camelfx.com^
@@ -164213,7 +164276,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||campaign-maywin.vip^
 ||campaign-platform-telemetry.prod.phreesia.app^
 ||campaign-remp.444.hu^
-||campaign-service-control-center.pages.dev^
 ||campaign-telemetry.phreesia.net^
 ||campaign-tracking-observer-hub.pages.dev^
 ||campaign-uploads.s3.amazonaws.com^
@@ -164450,6 +164512,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||campusrover.org^
 ||campusshowdownleague.com^
 ||campustech.com^
+||campusvirtualmantenimientoweb.weebly.com^
 ||campwalkrje.info^
 ||campwredir.com^
 ||campwrkz.click^
@@ -167968,7 +168031,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||casefb294190-nubc.vercel.app^
 ||casefb482255-iuan.vercel.app^
 ||casefb567629-utbg.vercel.app^
-||casefb725435-gd4x.vercel.app^
 ||casefulautist.shop^
 ||casefulbalafo.cyou^
 ||casegenetically.com^
@@ -170877,6 +170939,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||cd.ironicebravi.shop^
 ||cd.org^
 ||cd.sxfxjy.top^
+||cd.x-vo4.ru^
 ||cd00489bd1010.beer^
 ||cd011d71ea0f919a.com^
 ||cd028a2fa1014.beer^
@@ -171314,6 +171377,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||cdn-qc.coccoc.com^
 ||cdn-redirector.glopal.com^
 ||cdn-resources.prfct.cc^
+||cdn-robinhood-login.pages.dev^
 ||cdn-rum.n2olabs.pro^
 ||cdn-rum.ngenix.net^
 ||cdn-s-optional.optimizely.com^
@@ -173614,7 +173678,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||cerwintech.com^
 ||ceryldelaine.com^
 ||cerynoxgroup.com^
-||ceryptom.gitbook.io^
 ||cerzexapp-soft.com^
 ||cerzirefus.pro^
 ||cerziscame.pro^
@@ -182228,6 +182291,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||claim.labpro.life^
 ||claim.limited^
 ||claim.monads.foundation^
+||claim.omeletteswap.finance^
 ||claim.sonicprotocol.info^
 ||claim.switchboards.world^
 ||claim.treasury-asterdex.io^
@@ -182720,6 +182784,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||claronexbit.ru^
 ||claropagatufacturaoctubre.com^
 ||claropoinst.cc^
+||claroppoebs.cc^
 ||claroutmservice.com^
 ||clarovestilarnica.cyou^
 ||clarovestilornica.cyou^
@@ -182805,6 +182870,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||claspvictorytranslation.com^
 ||class-link.com^
 ||class-plastics.com^
+||class1004.dothome.co.kr^
 ||class1ink.com^
 ||classaffid.pro^
 ||classaplumbing.com^
@@ -185503,7 +185569,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||cloud-life.info^
 ||cloud-log-service.videodownloader.workers.dev^
 ||cloud-log.yy.com^
-||cloud-login-ledgar-live.pages.dev^
 ||cloud-login.info^
 ||cloud-mail.net^
 ||cloud-media.fr^
@@ -186837,6 +186902,8 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||cn.dap.dmm.com^
 ||cn.hanloon.com^
 ||cn.hotclips.click^
+||cn.kkmxxw.com^
+||cn.lumxza.com^
 ||cn.mywd.com^
 ||cn1.stadiumgoods.com^
 ||cn101.work^
@@ -187495,6 +187562,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||co.nf^
 ||co.payingsob.com^
 ||co.ssl.sc.omtrdc.net^
+||co.su-4n.ru^
 ||co.ttvmax.com^
 ||co.tubefulsewers.com^
 ||co03091loa.com^
@@ -187807,7 +187875,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||cobaszb.com^
 ||cobbaavvc.top^
 ||cobbandwaiteslaw.com^
-||cobbcbo.top^
 ||cobbett--cotton.com^
 ||cobblehill.sbs^
 ||cobblehilltrailersales.com^
@@ -189187,7 +189254,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||coinbases.org^
 ||coinbases.site^
 ||coinbasesft.com^
-||coinbasesolve.pages.dev^
 ||coinbasessupport.com^
 ||coinbasestake.biz^
 ||coinbasestake.com^
@@ -195507,7 +195573,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||conflrmatlon-ld624194.com^
 ||conflsocio.pro^
 ||confluence.drl.com.pk^
-||confluencemean.blob.core.windows.net^
 ||confluenselog.com^
 ||confluxcoin.xyz^
 ||confocolla.pro^
@@ -196254,7 +196319,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||consciencedefacesteering.com^
 ||consciencelotterylocust.com^
 ||conscientialab.click^
-||conscientious-today-070969.framer.app^
 ||conscious-act.com^
 ||conscious-floor.pro^
 ||conscious-guitar.com^
@@ -197963,6 +198027,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||cookcid.com^
 ||cookcodesign.com^
 ||cookcok.site^
+||cookcuin-logi.godaddysites.com^
 ||cookdomcrumpsdavys.sbs^
 ||cookecornishcowages.cloud^
 ||cookeddoctrine.com^
@@ -198796,6 +198861,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||corellex.com^
 ||corellonmedia.com^
 ||corelogicsoftware.com^
+||corely.sa.com^
 ||corematrix.us^
 ||coremaxcorp.com^
 ||coremcaniretun.com^
@@ -199243,6 +199309,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||correo-coeo.one^
 ||correo-entregas.net^
 ||correo-es.one^
+||correo-outlookweb-admin.weebly.com^
 ||correo-rtp-cdmx-gob-mx.weebly.com^
 ||correo-santpau-cat-admin.weebly.com^
 ||correo-support.shop^
@@ -199560,6 +199627,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||cosavigo.cc^
 ||cosavigo.top^
 ||cosavigo.vip^
+||cosbas.top^
 ||cosca168t.site^
 ||coscezille.pro^
 ||cosco.space^
@@ -201337,6 +201405,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||cpanel.trailsyamahamotor.com^
 ||cpanel08wh.bkk1.cloud.z.com^
 ||cpanel12wh.bkk1.cloud.z.com^
+||cpanelcalne45tgv10-2056erg.weebly.com^
 ||cpanelhywghuweb.weebly.com^
 ||cpankesvv.weebly.com^
 ||cpaokhfmaccu.com^
@@ -201703,7 +201772,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||cq39335-wordpress-xkqvv.tw1.ru^
 ||cq4q28.sbs^
 ||cq55435-wordpress-j8glv.tw1.ru^
-||cq7nio.icu^
 ||cq88.net^
 ||cq8888.xyz^
 ||cq9158.com^
@@ -201882,6 +201950,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||cr.dumx.ru^
 ||cr.famulliunruth.com^
 ||cr.jpmchase.com^
+||cr.n-jur.ru^
 ||cr.naver.com^
 ||cr.nsohost.com^
 ||cr.tatsmanaffects.com^
@@ -206755,6 +206824,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||ctimodin.cheap^
 ||ctinets.com^
 ||ctinsider.com/413gkwMT/init.js
+||ctioncomwebmaillo.weebly.com^
 ||ctionitypt.com^
 ||ctiontg.top^
 ||ctioqtosxq.com^
@@ -211220,6 +211290,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||d2.cup7.ru^
 ||d2.esp.ovh^
 ||d2.sina.com.cn^
+||d2.twy-0.ru^
 ||d200108c6x0w2v.cloudfront.net^
 ||d2019dabd376.top^
 ||d2033.top^
@@ -212495,6 +212566,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||d3x0jb14w6nqz.cloudfront.net^
 ||d3yachtsales.com^
 ||d3yhtrk.com^
+||d3yk.i-d-96.ru^
 ||d3yl7tmbqe1mq.cloudfront.net^
 ||d3zd5ejbi4l9w.cloudfront.net^
 ||d4.3o5i.ru^
@@ -220638,6 +220710,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||dd.betano.com^
 ||dd.browser.360.cn^
 ||dd.c-plumbing.sa.com^
+||dd.ccwx.sa.com^
 ||dd.control4.com^
 ||dd.death-angel.shop^
 ||dd.elohistazotise.com^
@@ -221932,7 +222005,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||decentralbridge.pages.dev^
 ||decentralexvalley.com^
 ||decentralisednode.com^
-||decentraliseds-exods.pages.dev^
 ||decentralized-dapps.firebaseapp.com^
 ||decentralized-dapps.web.app^
 ||decentralized-finances-gift.com^
@@ -229736,6 +229808,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||did-it.com^
 ||did-it.com^$third-party
 ||did.li^
+||did.vex0.ru^
 ||didachedoesntdoyle.shop^
 ||didacticringtail.pro^
 ||didaenx.top^
@@ -231646,6 +231719,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||diozeram.com^
 ||dip.hxit8.ru^
 ||dip.net-0-prosa.ru^
+||dip.qen9.ru^
 ||dipabue7.com^
 ||dipan.com^
 ||dipartimentointesa.com^
@@ -237392,6 +237466,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||donnalivia.com.br^
 ||donnamjackson.net^
 ||donnaocallaghanart.com^
+||donnation-service-ca.surge.sh^
 ||donnavanvleck.com^
 ||donnawinkler.com^
 ||donneaccas.pro^
@@ -245799,6 +245874,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||e1ffbb5b8352.com^
 ||e1ffbf89c1009.beer^
 ||e1i1t0updui0iqf.cc^
+||e1mk.o-b-79.ru^
 ||e1mp80hc.world^
 ||e1mx.fkur8.ru^
 ||e1my.moxt5.ru^
@@ -246663,6 +246739,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||e7ri-parcels.com^
 ||e7world.com^
 ||e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz^
+||e8.plx-5.ru^
 ||e8.qzad-3.ru^
 ||e80.50f.myftpupload.com^
 ||e8009e84c92eeeb6f2cd34622a9bda07.com^
@@ -247786,7 +247863,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||easeway.store^
 ||easheprorn.com^
 ||easi-sec.be^
-||easier-lots-499422.framer.app^
 ||easiercampaignworkshop.com^
 ||easierincluding.com^
 ||easies.de^
@@ -248019,9 +248095,10 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||easyaswebsites.com^
 ||easyatomsearch.org^
 ||easybacklinks.com^
+||easybank-landing-page-fm.vercel.app^
+||easybank-project-manan.vercel.app^
 ||easybank.abojo.dev^
 ||easybank.rohitdasu.dev^
-||easybanklanding.vercel.app^
 ||easybayshop.com^
 ||easybe.in^
 ||easybegenung.com^
@@ -249290,6 +249367,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||ecae2e525a98.com^
 ||ecaf0a63ab9b6020.click^
 ||ecaf2d087ab48c45.com^
+||ecafjbd.pilot45.com^
 ||ecagahe.top^
 ||ecais.org^
 ||ecakabe.top^
@@ -249316,6 +249394,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||ecardscerp.pro^
 ||ecareconnect360.com^
 ||ecareusa.com^
+||ecart238180webmailsour.weebly.com^
 ||ecarte-reglementation.fr^
 ||ecarte-reglementationfr.fr^
 ||ecartonhamed.com^
@@ -253375,6 +253454,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||eigenlayernetwork.xyz^
 ||eigenlayerstake.xyz^
 ||eigenlayerstaking.xyz^
+||eigenlayerxx.xyz^
 ||eigensinnig-wien.shop^
 ||eigentumskonferenz.org^
 ||eigenufoundation.org^
@@ -254149,6 +254229,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||el.kajeputhorn.com^
 ||el.mxta6.ru^
 ||el.quizlet.com^
+||el.rvox.ru^
 ||el.sokajecorin.com^
 ||el.tingesfosses.com^
 ||el.tripackoscin.com^
@@ -258200,7 +258281,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||emzorz.allergybuyersclub.com^
 ||emzxhwzaxdarg.vip^
 ||emzz.xyz^
-||en--bridge-trazorr.pages.dev^
 ||en-365-yono.site^
 ||en-aave.com^
 ||en-appletx.com^
@@ -258210,7 +258290,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||en-auge.com^
 ||en-bitcoin.org^
 ||en-chainfix.pages.dev^
-||en-coinbase-io-cdn.typedream.app^
 ||en-coinbase.net^
 ||en-collect.trendyol.com^
 ||en-cours-prime.fr^
@@ -258277,7 +258356,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||en-verification-prime.fr^
 ||en-web3-exods-support.pages.dev^
 ||en-web3-exods.pages.dev^
-||en-web3-exodsen.pages.dev^
 ||en-wetranser.weebly.com^
 ||en-yoroiwallet.com^
 ||en.bhuntr.com^
@@ -265552,6 +265630,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||ethercum.com^
 ||ethercum.org^
 ||etherdelta.gitnub.io^
+||ethereal-attraction5d2d20e1r1r021d0f210df1000.surge.sh^
 ||ethereal-elegance.ca^
 ||ethereal-night-visions.com^
 ||ethereal.cat^
@@ -268185,6 +268264,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||every-cute.com^
 ||every-dark.com^
 ||every-enjoy.com^
+||every-mail-8dhg4-4e7.webflow.io^
 ||every-mail-9d4dx.webflow.io^
 ||every-salmon.com^
 ||every-shopping.pro^
@@ -268841,6 +268921,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||evzuqmoxsnyj.ru^
 ||ew-apple.com^
 ||ew-verlag-analytics.com^
+||ew.7mp3.com^
 ||ew.caixa.gov.br^
 ||ew.doblaidmen.com^
 ||ew.mzvo7.ru^
@@ -270035,7 +270116,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||exo--web-wallet.pages.dev^
 ||exo-dus--web.pages.dev^
 ||exo-dus-web3waleet.pages.dev^
-||exo-dusweb-3wallet.pages.dev^
 ||exo-dusweb-docs.pages.dev^
 ||exo-marketing.com^
 ||exo-prevent.com^
@@ -270058,13 +270138,11 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||exodehu.top^
 ||exodermin.com^
 ||exodermin.eu^
-||exodes-wallet-en.pages.dev^
 ||exodium.biz^
 ||exodjhbn.top^
 ||exods-usweb3.pages.dev^
 ||exods-web3.pages.dev^
 ||exodso-io-web.pages.dev^
-||exodso-web.pages.dev^
 ||exodso-web3-wllet.pages.dev^
 ||exodsusweb.pages.dev^
 ||exodsweb3-en-usa.pages.dev^
@@ -270093,7 +270171,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||exodus-wallet-en.pages.dev^
 ||exodus-wallet-faq.pages.dev^
 ||exodus-wallet-io.pages.dev^
-||exodus-wallet-ion.pages.dev^
 ||exodus-wallet-run.pages.dev^
 ||exodus-wallet.com^
 ||exodus-wallet.download^
@@ -270121,7 +270198,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||exodusweb3wollet.w3spaces.com^
 ||exoduswebwallet.pages.dev^
 ||exoduswewalletdot.pages.dev^
-||exoduswwebwallet.pages.dev^
 ||exoduswwewallet.pages.dev^
 ||exoduusswewallet.pages.dev^
 ||exodynamicsmedical.com^
@@ -270162,7 +270238,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||exorigos.com^
 ||exorigos.com^$third-party
 ||exortsoft.top^
-||exosdeusweb3.github.io^
 ||exosrv.com^
 ||exosrw.com^
 ||exostrawellmen.shop^
@@ -272281,6 +272356,8 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||f103m.xyz^
 ||f103n.xyz^
 ||f103o.xyz^
+||f103q.xyz^
+||f103r.xyz^
 ||f104a.xyz^
 ||f104c.xyz^
 ||f104d.xyz^
@@ -272312,6 +272389,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||f107s.xyz^
 ||f107v.xyz^
 ||f1086cc025db315fc1429c757a749d96215d976a53d74567732985f9.com^
+||f108b.xyz^
 ||f108d.xyz^
 ||f108e156a806.com^
 ||f108g.xyz^
@@ -273547,6 +273625,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||f8lqij44gvw.shop^
 ||f8phvntohv.tpetry.me^
 ||f8qzx30cmn.shop^
+||f8rn.i-c-81.ru^
 ||f8thhood.com^
 ||f8xv4sdg.com^
 ||f8z7j.info^
@@ -276019,7 +276098,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||fargostandard.com^
 ||fargwyn.com^
 ||farhangdigi.com^
-||farhattyagi8-del.github.io^
 ||farhifavorsferth.cfd^
 ||fari-shop.at^
 ||fariapereira.com^
@@ -278108,6 +278186,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||fd.nl/pixel/
 ||fd.nmys-4.ru^
 ||fd.overseesequan.com^
+||fd.twy-0.ru^
 ||fd00e63461017.beer^
 ||fd01ce9a02.0012e30263.com^
 ||fd0385f9d78201303e5e229bd35877b6.com^
@@ -279129,6 +279208,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||feiqilai.lol^
 ||feiradaamizade.com^
 ||feiraguayshop.com^
+||feiraodeoutubro2025.github.io^
 ||feishubot.com^
 ||feishuming.shop^
 ||feisida.com^
@@ -284048,6 +284128,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||fintaxtech.com^
 ||fintech-asp.com^
 ||fintech.blue^
+||fintech.downyi.cn^
 ||fintech.lk^
 ||fintechapp-jgb.com^
 ||fintechdails.site^
@@ -287563,7 +287644,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||flowingdeficitjeanne.com^
 ||flowingsky.online^
 ||flowingwithchange.com^
-||flowito.xyz^
 ||flowjskk.com^
 ||flowkfoamyfraile.shop^
 ||flowkquick.cfd^
@@ -289337,7 +289417,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||foolhardy-audience.com^
 ||foolhardyevent.com^
 ||foolhardywear.pro^
-||foolish-people-170386.framer.app^
 ||foolish-variation-843597.framer.app^
 ||foolish-walk.pro^
 ||foolishgap.pro^
@@ -294249,6 +294328,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||frolictells.com^
 ||frollexcit.pro^
 ||frollpunze.pro^
+||from-batalkan-pinjamandana.ct.ws^
 ||from-co.com^
 ||from-ia.com^
 ||from-redirect.web.app^
@@ -295115,7 +295195,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||ftmtrade.com^
 ||ftmwallet.com^
 ||ftn-inc.com^
-||ftnb.weebly.com^
 ||ftnnce.autodoc.dk^
 ||ftnovs5ztmsfu.xyz^
 ||ftofsbuy.com^
@@ -296384,7 +296463,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||fundreximpulsoapp.com^
 ||fundrock-group.de^
 ||funds-assets.com^
-||funds-beige.vercel.app^
 ||funds-k7d9.vercel.app^
 ||funds-notes.com^
 ||funds-salary.com^
@@ -297286,7 +297364,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||fuzvjy.com^
 ||fuzzle.club^
 ||fuzzworks.xyz^
-||fuzzy-event-903541.framer.app^
 ||fuzzyashy.com^
 ||fuzzyaudio.com^
 ||fuzzybasketball.com^
@@ -302162,6 +302239,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||gateway-synovus.com^
 ||gateway-system.net^
 ||gateway-tracker.factsetdigitalsolutions.com^
+||gateway-us-west.lomrae.online^
 ||gateway-vpn.cloud^
 ||gateway.aimia.com^
 ||gateway.bingviz.microsoftapp.net^
@@ -303237,6 +303315,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||ge.sheh0.ru^
 ||ge.thebloomcar.com^
 ||ge.tt^
+||ge1.xa5r.ru^
 ||ge2024ins06tag1ra4mm.com^
 ||ge4cdn.com^
 ||ge6.getfto.com^
@@ -303261,7 +303340,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||geappliances-shop.com^
 ||geaqh-sq.blogspot.fr^
 ||geaqrgaq-d.blogspot.ch^
-||gear-increases-prefers-gender.trycloudflare.com^
 ||gear-mt.com^
 ||gear-outdoors.com^
 ||gear-supply.com^
@@ -304918,6 +304996,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||germabita.shop^
 ||germainedaigle.com^
 ||germalls-garten.de^
+||german-2482.github.io^
 ||german-apotheke.de^
 ||german-audio-equipment.com^
 ||german-discount-carsparts.com^
@@ -305214,7 +305293,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||get-ens.org^
 ||get-exchange.com^
 ||get-exodas-wallet-en.pages.dev^
-||get-exodas-wallets.pages.dev^
 ||get-express-vpn.net^
 ||get-express-vpn.online^
 ||get-express-vpns.com^
@@ -305742,7 +305820,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||getformstoday.com^
 ||getforwheels.com^
 ||getfoundonchatgpt.com^
-||getfree-bluetick.vercel.app^
 ||getfreebacklinks.com^
 ||getfreebl.com^$third-party
 ||getfreecryptocoins.com^
@@ -306122,6 +306199,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||getrichlink.com^
 ||getrichuu.org^
 ||getrightgraphics.com^
+||getrobuux.vercel.app^
 ||getrockerbox.com/pixel?
 ||getrockerbox.com^
 ||getrockerbox.com^$third-party
@@ -315676,6 +315754,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||gotoball.org^
 ||gotocoinbase.com^
 ||gotoda.co^
+||gotodaddymarketplace.weebly.com^
 ||gotodatup.site^
 ||gotoexp.dresslily.com^
 ||gotogo.asia^
@@ -324011,6 +324090,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||h21b.xyz^
 ||h21l.xyz^
 ||h21n.xyz^
+||h21u.xyz^
 ||h21x.xyz^
 ||h2217.cc^
 ||h22a.xyz^
@@ -325327,7 +325407,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||halkinyanindakiguc.baby^
 ||halkinyanindakiguc.com^
 ||hall-jacksonandassociates.com^
-||hall-metallic-expenditures-assignments.trycloudflare.com^
 ||hall4allinvestments.com^
 ||halla-koora-live.com^
 ||hallab1881.online^
@@ -325482,7 +325561,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||hamalending.com^
 ||hamamamamamammama02691.com^
 ||hamamammaamama0238.com^
-||hamamammamamamm8190.com^
 ||hamamelprincessa.com^
 ||hamandhobby.com^
 ||hamandhobbysupply.com^
@@ -327994,6 +328072,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||hc-learning.com^
 ||hc-nordic.com^
 ||hc-ssp.sm.cn^
+||hc-support.de^
 ||hc.beylicbesmile.com^
 ||hc.momentsjuergen.com^
 ||hc.uralweb.ru^
@@ -329094,6 +329173,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||hearlescanimbensasd.click^
 ||hearlescanimseanleat.com^
 ||hearlesfaerlesadasd.com^
+||hearletteofficialjob.id^
 ||hearlord.shop^
 ||hearmeyer.shop^
 ||hearmusicwithyou.com^
@@ -330306,6 +330386,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||help-it.online^
 ||help-japanpost.com^
 ||help-komputers.ru^
+||help-ledger-login-start.pages.dev^
 ||help-ledger.live^
 ||help-liedgem.gitbook.io^
 ||help-login-ledger.pages.dev^
@@ -332136,6 +332217,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||hghk9trk.com^
 ||hghngh.com^
 ||hghshoponline.com^
+||hghwpcucoopiloploreview.weebly.com^
 ||hghy.e-scurefiles.net^
 ||hginf.com^
 ||hginsights.com^
@@ -335526,7 +335608,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||hnissdsj.com^
 ||hniwxmkqey.com^
 ||hnixr.com^
-||hnjgdl.geps.glodon.com^
 ||hnjhhhhhhhhhnefqbgwfhehegdssdg2w.sbs^
 ||hnjhtxjs.com^
 ||hnjjndrw.com^
@@ -336598,7 +336679,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||home-ldgerlivlogin.pages.dev^
 ||home-ledge-login-live.pages.dev^
 ||home-ledger-com-strt.pages.dev^
-||home-ledger-log-in-web-faq.pages.dev^
 ||home-ledgerr-wallet.pages.dev^
 ||home-leeger-livsso.pages.dev^
 ||home-lender-center-improvement.click^
@@ -336657,7 +336737,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||home-trezorstrt.pages.dev^
 ||home-trezr-io.square.site^
 ||home-update-ledge-guide.pages.dev^
-||home-uphold-login.pages.dev^
 ||home-water-heater-pfnb4y.click^
 ||home-wedev.fr^
 ||home-window-quotes.online^
@@ -336711,7 +336790,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||home.wtt.ink^
 ||home.zdea.com^
 ||home1448.godaddysites.com^
-||home1925.godaddysites.com^
 ||home1and.ru^
 ||home24bamh.it.com^
 ||home24banh.it.com^
@@ -337039,7 +337117,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||hometrade-nomura.4sjk7oo0.top^
 ||hometrade-nomura.588qf.cn^
 ||hometrade-nomura.8dgbks.top^
-||hometrade-nomura.dqlyf.com^
 ||hometrade-nomura.e7upjc.top^
 ||hometrade-nomura.fs-sytc.com^
 ||hometrade-nomura.gf03zq.top^
@@ -337052,11 +337129,9 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||hometrade-nomura.nygvh3.top^
 ||hometrade-nomura.peopledxzk.cn^
 ||hometrade-nomura.rhu1b7.top^
-||hometrade-nomura.rrebf8.top^
 ||hometrade-nomura.saneryifacai.com^
 ||hometrade-nomura.scd6753.com^
 ||hometrade-nomura.sr60ea.top^
-||hometrade-nomura.tok1yi.top^
 ||hometrade-nomura.u8p3rk.top^
 ||hometrade-nomura.uir5rg.top^
 ||hometrade-nomura.unj2rl.top^
@@ -337397,6 +337472,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||honor-phone.store^
 ||honor.panteh.eu^
 ||honor.re^
+||honor697.github.io^
 ||honorable-bedroom.pro^
 ||honorable-sister.com^
 ||honorablegiven.com^
@@ -340589,6 +340665,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||hotelplanner2025.world^
 ||hotelposthoorn.com^
 ||hotelpresident.ci^
+||hotelproorlandotrial-whatsapp.herokuapp.com^
 ||hotelpuertoamazonico.com^
 ||hotelpuri36.com^
 ||hotelratespro.com^
@@ -350624,7 +350701,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||iimmac.com^
 ||iimousewiiiimous.org^
 ||iimtjwd.com^
-||iimtoken.cc^
 ||iimukz.es^
 ||iindonesiaa.weebly.com^
 ||iinea.org^
@@ -355504,6 +355580,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||improve.tempest.com^
 ||improveads.fi^
 ||improvebin.xyz^
+||improved-journey.vercel.app^
 ||improvedbrowser.online^
 ||improvedcontactform.com^
 ||improvedigital.com^
@@ -359291,7 +359368,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||informativopedidoretido.sbs^
 ||informatizi.com^
 ||informatoriads.snai.it^
-||informatsiya.web.app^
 ||informatykadlafirm.pl^
 ||informazout.org^
 ||informed-srivcio.click^
@@ -359774,6 +359850,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||ingredients.firmenich.com^
 ||ingredientwritten.com^
 ||ingreesar-aqui23.webcindario.com^
+||ingresa-inicio-usermua.vercel.app^
 ||ingresa-inicio.webcindario.com^
 ||ingresa-seguro.info^
 ||ingresadaviplata.webcindario.com^
@@ -360593,6 +360670,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||innskyline.com^
 ||innsoulspace.com^
 ||innsystradingco.com^
+||inntermattico.com^
 ||innteva.com^
 ||inntrent.com^
 ||inntuit.com^
@@ -360790,7 +360868,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||inpost-pl.larygons.cfd^
 ||inpost-pl.naodenli.cfd^
 ||inpost-pl.nzuemilo.cfd^
-||inpost-pl.piferaudn.cfd^
 ||inpost-pl.pl-conformation58.shop^
 ||inpost-pl.poalezoir.cfd^
 ||inpost-pl.pokfjena.cfd^
@@ -361584,6 +361661,8 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||instagram.mex.com^
 ||instagram.xx.fbcdn.net.iberostar.com^
 ||instagram0639.blogspot.
+||instagrambios.com^
+||instagrambios.net^
 ||instagrambusiness-supportcenter.pages.dev^
 ||instagramfrance.fr^
 ||instagramhackonline.com^
@@ -361615,6 +361694,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||instalacionesmejia.com^
 ||instalacionesremotas.com^
 ||instalacom.site^
+||instalafacebook.blogspot.tw^
 ||instalasifire.com^
 ||instalfuentes.net^
 ||instalgaz.net^
@@ -363125,7 +363205,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||interface-formulaire-en-ligne.com^
 ||interface-git-main-uniswap.vercel.app^
 ||interface-git-parallel-cypress-uniswap.vercel.app^
-||interface-j10ydpka0-uniswap.vercel.app^
 ||interface-uniswap.vercel.app^
 ||interface.bilibili.com^
 ||interface.jofihi.com.de^
@@ -363261,6 +363340,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||intermarkets.net^
 ||intermatco.com^
 ||intermaticoacti.pro^
+||intermato.art^
 ||intermazoneliausi.com^
 ||intermcdon.pro^
 ||intermebeldon.store^
@@ -364821,7 +364901,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||io-l2.org^
 ||io-lezr-wallet.pages.dev^
 ||io-md2x.info^
-||io-metamask-en-gb.typedream.app^
 ||io-nft.company^
 ||io-nft.run^
 ||io-ny.eu^
@@ -364846,6 +364925,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||io-tech.fi/io/www/delvr/lokiz.php
 ||io-telegran.org^
 ||io-trezio-wallet.pages.dev^
+||io-trezor-uss.pages.dev^
 ||io-trezorrstart-us.pages.dev^
 ||io-trezorstartt.pages.dev^
 ||io-v2-api-gateway-api-prod.app^
@@ -365060,7 +365140,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||ionosesfacturas.rf.gd^
 ||ionoslaba.com^
 ||ionoss.fr^
-||ionossedureme.dynv6.net^
 ||ionoswatch.de^
 ||ionoucubri.ru^
 ||ionousemen.com^
@@ -367110,6 +367189,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||ism-capital.com^
 ||ism-telemetry.trafficmanager.net^
 ||ism3y8.org^
+||ismail99182.github.io^
 ||ismailcinar.com^
 ||ismailov.click^
 ||ismailpc.com^
@@ -368701,6 +368781,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||iv.nyfc.ru^
 ||iv.pl^
 ||iv.stummelguider.top^
+||iv.yjor.ru^
 ||iv24.pl^
 ||iv7xtrk.com^
 ||ivacuum.de^
@@ -370524,7 +370605,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||j43r.xyz^
 ||j445.top^
 ||j47t8yfnbb5an8z4chzy6p5d2.com^
-||j48asd.dns.army^
 ||j4asia.com^
 ||j4cz8cw8nlm.shop^
 ||j4g4s4r.cfd^
@@ -370534,6 +370614,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||j4r80441g5.cyou^
 ||j4thaispa.com^
 ||j4zcsn.cyou^
+||j5.jeqr.ru^
 ||j5.llim-8.ru^
 ||j50nz663bu.bond^
 ||j51120.com^
@@ -371871,7 +371952,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||japan-aotucheck.index-sign13.byyu2w.top^
 ||japan-aotucheck.index-sign13.dj7vy3.top^
 ||japan-aotucheck.index-sign13.fgl07b.top^
-||japan-aotucheck.index-sign13.ftzldk.top^
 ||japan-aotucheck.index-sign13.iv1fxn.top^
 ||japan-aotucheck.index-sign13.kk1icj.top^
 ||japan-aotucheck.index-sign13.xk75vb.top^
@@ -372204,6 +372284,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||jatiendahregency.com^
 ||jatimku.com^
 ||jatinadsajency.site^
+||jatinvaid108.github.io^
 ||jatisungkaiestetika.com^
 ||jatobacutikin.com^
 ||jatpmv.megacolchoes.com.br^
@@ -373743,7 +373824,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||jenniferzeiszphd.com^
 ||jenningsallsprucedup.com^
 ||jenniquepain.com^
-||jennitmp.github.io^
 ||jennjonesdesign.com^
 ||jennkarfaridis.com^
 ||jennmahoneymusic.com^
@@ -374407,6 +374487,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||jg.cynaraguglia.com^
 ||jg.granescance.com^
 ||jg.repayknutty.top^
+||jg.vuln5.ru^
 ||jg0c.sfr.fr^
 ||jg0dngb.top^
 ||jg1.trypicz.com^
@@ -379162,7 +379243,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||jsjwear.shop^
 ||jsjzone.shop^
 ||jskeqat.com^
-||jskjhdfbnfn.weebly.com^
 ||jskolnicktrees-dot-yamm-track.appspot.com^
 ||jskrzmtf.run^
 ||jsks.biz^
@@ -380258,7 +380338,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||juno-106923.weeblysite.com^
 ||juno-12342452.weebly.com^
 ||juno-customer-update.webflow.io^
-||juno-message-center-101610.weeblysite.com^
 ||juno-message-center-104267.weeblysite.com^
 ||juno-webmail-106120.square.site^
 ||juno.com/start/javascript.do?message=
@@ -381752,7 +381831,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||k0s1l3k.click^
 ||k0ske.short.gy^
 ||k0wir.icu^
-||k0wshi-ka.github.io^
 ||k1-biligame.gslb.ksyuncdn.com^
 ||k1.wanwenwan.cn^
 ||k10.usefto.com^
@@ -381791,6 +381869,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||k1wa.jp^
 ||k1wai.top^
 ||k1wjdx.top^
+||k1zw.i-c-81.ru^
 ||k2.5h4553.online^
 ||k2.z-67.ru^
 ||k203.adn.com^
@@ -385561,7 +385640,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||kendokeps.shop^
 ||kendosbromal.top^
 ||kendosliny.com^
-||kendralust266.activehosted.com^
 ||kendralustpornhub.com^
 ||kendrel-yieldharbor.com^
 ||kendrelyieldharbor.net^
@@ -386419,6 +386497,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||kf.andorrachirrup.com^
 ||kf.blursverism.com^
 ||kf.bvuf2.ru^
+||kf.loxr.ru^
 ||kf.mixedlyblokes.top^
 ||kf.pinkbnb.net^
 ||kf.pinkpp.site^
@@ -386789,6 +386868,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||kgvvvgxtvi.rocks^
 ||kgvyq.shop^
 ||kgvzv.com^
+||kgw.weppf.icu^
 ||kgw0g.com^
 ||kgw21.com^
 ||kgwbngjoviypv.store^
@@ -388821,7 +388901,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||kjakks.vip^
 ||kjamzqljbwpgk.space^
 ||kjanmt.com^
-||kjbbiu.weebly.com^
 ||kjbhjbhnk.shop^
 ||kjc-tech.com^
 ||kjcagent.top^
@@ -389136,6 +389215,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||kktsay01.com^
 ||kku-account.weebly.com^
 ||kku24.com^
+||kkuc-ionlgn.godaddysites.com^
 ||kkucl.shop^
 ||kkujjshnd.email^
 ||kkujkajkeiobts.com^
@@ -389781,6 +389861,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||kmaimail.top^
 ||kmaino.finance^
 ||kmall.kaola.com^
+||kmallalliancen3.top^
 ||kmandeck231.wixstudio.io^
 ||kmanlostor.com^
 ||kmart-mall.org^
@@ -392009,6 +392090,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||kqwuh.com^
 ||kqxw41baddll0x5.xyz^
 ||kqzbph.zerohedge.com^
+||kqzps.cn^
 ||kr-cheat.xyz^
 ||kr-chicken-road.online^
 ||kr-col-ext.nelo.navercorp.com^
@@ -392116,7 +392198,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||kraftholz-pellet.shop^
 ||kraftholz.shop^
 ||kraftityourself.com^
-||krafton-official.eventsredeems.com^
 ||kraftonevent.com^
 ||kraftspiel.at^
 ||kraftuns.com^
@@ -392187,6 +392268,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||krakencoin.cn^
 ||krakencoinbase.vip^
 ||krakendarknetor.net^
+||krakendluginewusa.godaddysites.com^
 ||krakendownservices.com^
 ||krakenfa.com^
 ||krakenfe.com^
@@ -392196,6 +392278,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||krakeninsure.com^
 ||krakenka.com^
 ||krakenkr.com^
+||krakenlog.godaddysites.com^
 ||krakenloginhelps.pages.dev^
 ||krakenmeetings.com^
 ||krakenon.com^
@@ -392211,6 +392294,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||kraketrade.cc^
 ||krakfoundation.org^
 ||krakhotkina.store^
+||krakin-lgin.godaddysites.com^
 ||krakrn41.com^
 ||kralbet-gunceelgiris.com^
 ||kralcasino.click^
@@ -393266,7 +393350,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||ktgo.site^
 ||ktgpgoa.top^
 ||ktgroup.com.ua^
-||kthaai.weebly.com^
 ||kthdsn.com^
 ||kthfair.lol^
 ||kthgbt.com^
@@ -393581,23 +393664,22 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||kuchkuchnights.com^
 ||kuci-onlgiin.godaddysites.com^
 ||kucidave.com^
-||kuciin-pluogen.godaddysites.com^
 ||kucing99.com^
 ||kucingpeliharaan.com^
 ||kucings.shop^
 ||kucionpro.club^
+||kuckuinlog-ins27.godaddysites.com^
 ||kuclub6.com^
 ||kucnwtd.top^
 ||kucobit22.com^
 ||kucobit33.com^
 ||kucobit55.com^
+||kucoibseaproulogus.godaddysites.com^
 ||kucoidilogin.gitbook.io^
 ||kucoienlogini.gitbook.io^
 ||kucoin-auth.web.app^
 ||kucoin-docs-cdn.gitbook.io^
 ||kucoin-in.godaddysites.com^
-||kucoin-l-o-g-i-n.godaddysites.com^
-||kucoin-logggn.godaddysites.com^
 ||kucoin-loginx.godaddysites.com^
 ||kucoin-m.info^
 ||kucoin-pol.vip^
@@ -393832,7 +393914,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||kunde.danskespil.dk^
 ||kunde.lisa-pension.de^
 ||kundegeschaft.de^
-||kundelogver2in.pages.dev^
 ||kunden-29049-login.com^
 ||kunden-kontrolle.click^
 ||kunden-management-space.org^
@@ -394001,7 +394082,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||kurier-agch.com^
 ||kurier-chf.com^
 ||kurier-chj.com^
-||kurier-paketscheinnummer-15503340744219.omh-tech.com^
 ||kurier-polska.de^
 ||kurierag-chf.com^
 ||kurierch-ag.com^
@@ -395363,6 +395443,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||l.your.md^
 ||l.zdnet.fr^
 ||l0.ozxg-5.ru^
+||l0.slaq.ru^
 ||l00m.uht3o.online^
 ||l00p.qytan.online^
 ||l029.recordpatriot.com^
@@ -395478,6 +395559,8 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||l4-logs-http-rum-pub-s1-6386d34262e59173.elb.us-east-1.amazonaws.com^
 ||l4-metrics-agent-s0-7c551d28c9ca34fc.elb.us-east-1.amazonaws.com^
 ||l4-metrics-agent-s1-56401ca284db905a.elb.us-east-1.amazonaws.com^
+||l4.olwxes.today^
+||l4.xvo4.ru^
 ||l43zp.com^
 ||l45lfe8a00.live^
 ||l49tty.info^
@@ -396598,7 +396681,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||lakobrija.com^
 ||lakotanationcoin.com^
 ||laksanamasagung.com^
-||lakshgatla.github.io^
 ||lakshmimalvamcdade.live^
 ||lakshmimatrimony.com^
 ||lakshyadigitalmedia.com^
@@ -397720,6 +397802,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||laredoutre.fr^
 ||lareeslassoedmacsyma.shop^
 ||laregione.ch/ext/av.php?
+||laregla.cl^
 ||larellehouse.com^
 ||laremoda.com^
 ||larencelva.com^
@@ -399451,7 +399534,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||ldgnrtn.com^
 ||ldgr--wallet.pages.dev^
 ||ldgr-livee-desktp.pages.dev^
-||ldgrhd3453453jsd.lgdasco.workers.dev^
 ||ldgrhd3453453jsd.nereyda-8a5.workers.dev^
 ||ldgrl.cn^
 ||ldgrrr----liive---wallett.pages.dev^
@@ -400084,7 +400166,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||leapmobs.com^
 ||leapnwa.com^
 ||leappermanently.com^
-||leappleslaal24x7-lya1.github.io^
 ||leapprojects.org^
 ||leapretrieval.com^
 ||leaps.top^
@@ -400586,7 +400667,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||ledger-store.fr^
 ||ledger-support-portal.com^
 ||ledger-supportapp.com^
-||ledger-us-log-in.pages.dev^
 ||ledger-us-login.pages.dev^
 ||ledger-us-nanox-cdn.vercel.app^
 ||ledger-wallet-us.pages.dev^
@@ -400704,6 +400784,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||ledgre-login-en.pages.dev^
 ||ledgrionettica.my^
 ||ledgrlive-support.pages.dev^
+||ledgrlivedessktop.gitbook.io^
 ||ledgrr-login-en.pages.dev^
 ||ledgrrr------com----start.pages.dev^
 ||ledgurifjr.com^
@@ -400770,6 +400851,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||ledwtz.icu^
 ||ledxboom.com^
 ||ledyardletheanlipopod.cfd^
+||ledzercom.gitbook.io^
 ||leeannwalkerlawfirm.com^
 ||leebegruwech.com^
 ||leebordeaux.fr^
@@ -400892,6 +400974,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||lefsenlemanealubbock.sbs^
 ||left-organization-848092.framer.app^
 ||left-world.com^
+||left.teneacrea.ru.com^
 ||leftbedroom.com^
 ||leftboot.com^
 ||leftcandle.com^
@@ -404793,6 +404876,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||lilin138x1.com^
 ||liline.shop^
 ||lilinl.store^
+||lilinworld.com^
 ||lilisplace.com^
 ||lilitakahashi.com^
 ||lilithandeveofficial.online^
@@ -408024,6 +408108,21 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||live-offerte.online^
 ||live-on-chain.com^
 ||live-online-stream.xyz^
+||live-openseamints30.vercel.app^
+||live-openseamints32.vercel.app^
+||live-openseamints33.vercel.app^
+||live-openseamints34.vercel.app^
+||live-openseamints35.vercel.app^
+||live-openseamints36.vercel.app^
+||live-openseamints37.vercel.app^
+||live-openseamints38.vercel.app^
+||live-openseamints39.vercel.app^
+||live-openseamints40.vercel.app^
+||live-openseamints41.vercel.app^
+||live-openseamints42.vercel.app^
+||live-openseamints44.vercel.app^
+||live-openseamints45.vercel.app^
+||live-openseamints46.vercel.app^
 ||live-opsecsecurity.com^
 ||live-partner.com/tags?
 ||live-percussion.net^
@@ -409342,6 +409441,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||lloen.shop^
 ||llog.pl^
 ||llogaritme.com^
+||llogoon-mettamaskxyz.godaddysites.com^
 ||lloidla.com^
 ||llolwj.datting4you.com^
 ||llolwj.dreamforya.com^
@@ -409687,6 +409787,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||lmtakon.org^
 ||lmtdhlgroup25.com^
 ||lmteescleenteeses-com.umbler.net^
+||lmtermartweb.alwaysdata.net^
 ||lmtkg.biz^
 ||lmtonline.com/413gkwMT/init.js
 ||lmtrp.cn^
@@ -411074,7 +411175,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||log-edc5180c.us.v2.we-stats.com^
 ||log-en-nhandan.epicdn.me^
 ||log-en-sggp.epicdn.me^
-||log-en-us-trezor.pages.dev^
 ||log-en.nhandan.vn^
 ||log-en.sggp.org.vn^
 ||log-eu.vicohome.io^
@@ -412456,7 +412556,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||loginonline.phishing.company^
 ||loginorangconnect.com^
 ||loginpage.cloud^
-||loginpages.onlinebankingbdo-5b5.workers.dev^
 ||loginportal-document-filequest.net^
 ||loginprime-video.fr^
 ||loginprime.fr^
@@ -415044,6 +415143,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||loutishpetrel.pro^
 ||loutishtanuki.pro^
 ||loutrakislots.com^
+||louuiscahuf.com^
 ||louver.uno^
 ||louvrebanqueprivee-moncompte.com^
 ||louvrebil.click^
@@ -420120,7 +420220,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||m-santandersign.com^
 ||m-sbisec.bjdaydreamer.com^
 ||m-sbisec.guanlixi.net^
-||m-sbisec.kymjyh.com^
 ||m-sbisec.minfengmuye.com^
 ||m-sbisec.shtoucherp.cn^
 ||m-setup.net^
@@ -420153,6 +420252,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||m-yes.org^
 ||m-zephyrtone.prod.suno.com^
 ||m-zhiboba.com^
+||m.1056915.com^
 ||m.1gr.cz^
 ||m.3011w3011.com^
 ||m.38xs.com^
@@ -420908,6 +421008,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||m7qb0uqyhyii3.bar^
 ||m7room.com^
 ||m7xssfiit.com^
+||m7y1.7aoasu3.ru^
 ||m7y1.8d9691.online^
 ||m8-kg.ru^
 ||m8.2se.info^
@@ -421113,6 +421214,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||m9q.mt3o4.ru^
 ||m9rug.top^
 ||m9s3h265lq.com^
+||m9sn.i-d-96.ru^
 ||m9sz0hh3f7.com^
 ||m9wfy.icu^
 ||m9zhxbupp1.top^
@@ -421204,6 +421306,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||ma.uslawns.com^
 ||ma.vhhe9.ru^
 ||ma.wp.pl^
+||ma.xer-o.ru^
 ||ma.xt7y8.ru^
 ||ma.yaksbuceros.com^
 ||ma.zoho.com^
@@ -422023,7 +422126,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||mafiaillegal.com^
 ||mafiawood.com^
 ||maficheclasse.com^
-||maficheclasse.fr^
 ||mafivaz.biz^
 ||maformationofficinale.actonservice.com^
 ||mafowex.com^
@@ -422841,7 +422943,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||mail-103837.weeblysite.com^
 ||mail-104160.weeblysite.com^
 ||mail-104174.weeblysite.com^
-||mail-104348.weeblysite.com^
 ||mail-105085.weeblysite.com^
 ||mail-105131.weeblysite.com^
 ||mail-105280.weeblysite.com^
@@ -423021,7 +423122,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||mail.finwellgroup.com^
 ||mail.firsthome.com^
 ||mail.forum-energies.com^
-||mail.fqm.nyx.temporary.site^
 ||mail.fuckingfor.live^
 ||mail.gofastbits.nl^
 ||mail.google.oscarmar.com^
@@ -423637,6 +423737,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||mainnetdapp-syncportal.com^
 ||mainnetdapp.xyz^
 ||mainnetfix.com^
+||mainnetfixrelay.top^
 ||mainnethub-protocol.firebaseapp.com^
 ||mainnethub-protocol.web.app^
 ||mainnetinpinfix-deg.website^
@@ -428742,7 +428843,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||martenshrvatska.co^
 ||martensysklepwarszawa.com^
 ||marterimpi.pro^
-||martha-chapel-moment-survey.trycloudflare.com^
 ||marthaannesdiasthomp1746983281251.0640324.meusitehostgator.com.br^
 ||marthaaustinwhite.com^
 ||marthajed.com^
@@ -429756,7 +429856,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||mateast.com^
 ||matecitoviajero.com^
 ||matedirectglobal.com^
-||mateimsklogi-usa.godaddysites.com^
 ||matekerne.com^
 ||matelowmatewanmezcals.cfd^
 ||matelso.de^
@@ -437251,7 +437350,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||mesenturbi.pro^
 ||mesenvie.fr^
 ||mesh-confirm-bridge.com^
-||mesh-rpcnode.pages.dev^
 ||mesh-systemic-scalar.com^
 ||mesh.treqz.online^
 ||mesh.za.com^
@@ -437454,6 +437552,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||mestken.top^
 ||mestkom.ru^
 ||mesto-vashego-zakaza.sbs^
+||mestoken.cn^
 ||mestoken.vip^
 ||mestovaris.info^
 ||mestream.xyz^
@@ -437471,6 +437570,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||meswak.ru^
 ||mesxxceataiaxhh.com^
 ||meszesma.hu^
+||met-metamask-lgggininu.godaddysites.com^
 ||met-meteora.xyz^
 ||met-meteorag.xyz^
 ||met.jasperforge.org^
@@ -437487,21 +437587,18 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||meta-allocation.com^
 ||meta-apphelp.com^
 ||meta-appsweb.com^
-||meta-ascendrix.pages.dev^
 ||meta-assistant-app.firebaseapp.com^
 ||meta-authentication1.click^
-||meta-belor.pages.dev^
 ||meta-betrix.com^
-||meta-bolt-12p.pages.dev^
 ||meta-business-supportcenters.pages.dev^
 ||meta-business-supports.pages.dev^
 ||meta-business.site^
 ||meta-careersconnect.com^
 ||meta-checkpoint-blocked-accounts.start.page^
-||meta-clearvia.pages.dev^
 ||meta-conversions-api.com^
-||meta-dyvon.pages.dev^
-||meta-ethics.pages.dev^
+||meta-cynor.pages.dev^
+||meta-darvyn.pages.dev^
+||meta-dervik.pages.dev^
 ||meta-for-business-
 ||meta-for-business-standard-advertisement-advertisement.pages.dev^
 ||meta-force.asia^
@@ -437513,44 +437610,21 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||meta-helps.start.page^
 ||meta-id.icu^
 ||meta-issue.start.page^
-||meta-jarnyx.pages.dev^
 ||meta-juego.top^
 ||meta-konto-zweryfikuj.click^
 ||meta-kontur.ru^
 ||meta-ledger.com^
-||meta-linkbase.pages.dev^
 ||meta-live-trade.agency^
-||meta-logixhub.pages.dev^
-||meta-loopx.pages.dev^
-||meta-luminarix.pages.dev^
-||meta-managex-cqc.pages.dev^
+||meta-mask-log-in.godaddysites.com^
 ||meta-mask-wallet-912.pages.dev^
 ||meta-maskloig.godaddysites.com^
 ||meta-mconnect.web.app^
-||meta-mediatrix.pages.dev^
-||meta-mergex-e0e.pages.dev^
-||meta-myrol.pages.dev^
-||meta-orlun.pages.dev^
 ||meta-path.sbs^
-||meta-pathway-c40.pages.dev^
-||meta-pathway-djo.pages.dev^
-||meta-phasecore.pages.dev^
 ||meta-phone.fr^
-||meta-pillar-1o2.pages.dev^
-||meta-pixelx.pages.dev^
-||meta-platformhub-5wl.pages.dev^
-||meta-platformhub-6ck.pages.dev^
-||meta-polar-dyz.pages.dev^
-||meta-portalcore.pages.dev^
-||meta-portalhub-d03.pages.dev^
-||meta-portalhub-vtu.pages.dev^
 ||meta-powiadomienie.click^
-||meta-proceed.pages.dev^
+||meta-process.pages.dev^
 ||meta-profit-ai.com^
-||meta-pulsecore.pages.dev^
-||meta-pure.pages.dev^
-||meta-radix.pages.dev^
-||meta-reactorx.pages.dev^
+||meta-radiance.pages.dev^
 ||meta-recovery2023.start.page^
 ||meta-rnicrosoft365.powerappsportals.com^
 ||meta-security-update.start.page^
@@ -437568,24 +437642,11 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||meta-support-unitid.pages.dev^
 ||meta-support.help^
 ||meta-supportverify.click^
-||meta-systemline-519.pages.dev^
-||meta-taskcore.pages.dev^
-||meta-telix.pages.dev^
-||meta-thinkcore.pages.dev^
 ||meta-trade.xyz^
-||meta-transfercore.pages.dev^
-||meta-trendhub.pages.dev^
-||meta-trinityx-7t9.pages.dev^
-||meta-trustline.pages.dev^
 ||meta-uk.shop^
 ||meta-update.pages.dev^
-||meta-uplinkhub.pages.dev^
-||meta-upscalex.pages.dev^
 ||meta-uptodate.com^
-||meta-urnil.pages.dev^
-||meta-velocityhub.pages.dev^
 ||meta-velora-ai.net^
-||meta-venturon.pages.dev^
 ||meta-verificadora.click^
 ||meta-verificadora1.click^
 ||meta-verification.click^
@@ -437596,12 +437657,10 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||meta-verify1.click^
 ||meta-verify111.click^
 ||meta-verify1112.click^
-||meta-visioncore.pages.dev^
 ||meta-vrenthon-tracking-chain.pages.dev^
 ||meta-web3.online^
 ||meta-xirvoth-adjustment-tracking-d2w.pages.dev^
 ||meta-xpert.com^
-||meta-zovik.pages.dev^
 ||meta-zweryfikowac.click^
 ||meta-zweryfikuj-artykul.click^
 ||meta-zweryfikuj-konto.click^
@@ -437614,6 +437673,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||meta2mil.com^
 ||meta4-group.com^
 ||meta88.com^
+||metaa-mask-logien.godaddysites.com^
 ||metaaaibt.info^
 ||metaadboost.com^
 ||metaadserving.com^
@@ -437677,7 +437737,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||metacenter-case100023532155.web.app^
 ||metachannelconnect.com^
 ||metachaosverse.online^
-||metachromextn.gitbook.io^
 ||metaclinician.com^
 ||metacomposites.com^
 ||metaconex.io^
@@ -437917,7 +437976,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||metamask-co.pages.dev^
 ||metamask-de.com^
 ||metamask-dek.com^
-||metamask-docs-git-infuracreditpricing-metamask-web.vercel.app^
+||metamask-dev-dashboard-feat-remove-prora-consensys-ddffed67.vercel.app^
 ||metamask-gmo.com^
 ||metamask-identity.com^
 ||metamask-io-extension.pages.dev^
@@ -437989,6 +438048,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||metamusk-web-eng.pages.dev^
 ||metamx.com^
 ||metana-control.pages.dev^
+||metana-core.pages.dev^
 ||metanaito.net^
 ||metanalisis.com^
 ||metanbicon.pro^
@@ -442326,7 +442386,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||microsoft-grc.com^
 ||microsoft-int.comnotexistsghub.docker.pedidopago.com.br^
 ||microsoft-join-conference.com^
-||microsoft-landing-page-wine.vercel.app^
 ||microsoft-link.com^
 ||microsoft-live.team^
 ||microsoft-login.app^
@@ -444398,8 +444457,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||mintfable.com^
 ||mintfaro.com^
 ||mintfiles.s3.amazonaws.com^
-||mintfree100.vercel.app^
-||mintfree204.vercel.app^
 ||mintgem.store^
 ||minthelio.com^
 ||mintial.de^
@@ -445426,7 +445483,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||mitademo.com^
 ||mitadlinks.com^
 ||mitalifashions.com^
-||mitamxk-longn-us.godaddysites.com^
 ||mitamyanmar.com^
 ||mitannimozarabmulita.makeup^
 ||mitao-page.com^
@@ -445624,7 +445680,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||mixed-bag.boyfriend.jp^
 ||mixed-building.com^
 ||mixed-delivery.com^
-||mixed-scanned-cad-location.trycloudflare.com^
 ||mixed.news^
 ||mixedfruit.online^
 ||mixedissue.pro^
@@ -447220,6 +447275,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||mob.api.xmpush.xiaomi.com^
 ||mob.com^
 ||mob.lowtid.fun^
+||mob.m4rj.ru^
 ||mob.novanewsapp.com^
 ||mob.pandora.xiaomi.com^
 ||mob.tv.pandora.xiaomi.com^
@@ -447357,6 +447413,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||mobilda.com^
 ||mobildev.in^
 ||mobile-10.com^
+||mobile-2.lomrae.online^
 ||mobile-ads.fetish-matters.net^
 ||mobile-ads.gaygalls.net^
 ||mobile-aej.vip^
@@ -448193,7 +448250,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||modeschulte.de^
 ||modesoft.me^
 ||modesoft.org^
-||modest-population-688469.framer.app^
 ||modest-visual.pro^
 ||modestbehavior.net^
 ||modestcatwalk.com^
@@ -452018,7 +452074,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||motsjnv.cn^
 ||motsouthsea.com^
 ||mottaghipour.click^
-||mottamask-lloggjin.godaddysites.com^
 ||mottemorde.pro^
 ||mottesmulvelnanette.shop^
 ||mottestandy.world^
@@ -453624,7 +453679,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||msbcniko.d05t9x.top^
 ||msbcniko.e1kadh.top^
 ||msbcniko.eacvzc.top^
-||msbcniko.fw4098.top^
 ||msbcniko.gi3w6h.top^
 ||msbcniko.gr5c1e.top^
 ||msbcniko.hnhumtlaiq.top^
@@ -453633,8 +453687,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||msbcniko.jy4nhs.top^
 ||msbcniko.k5h9kb.top^
 ||msbcniko.kmiv9f.top^
-||msbcniko.l3jk0x.top^
-||msbcniko.nnylwl.top^
 ||msbcniko.pe1ntx.top^
 ||msbcniko.tgql88.top^
 ||msbcniko.tml1ye.top^
@@ -453968,6 +454020,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||msoft.skin^
 ||msoft3.user32.com^
 ||msoftcritical-update.com^
+||msoftdatastore.z22.web.core.windows.net^
 ||msofts.net^
 ||msoftstreamauth.com^
 ||msoftupdate.*.linodeobjects.com^
@@ -456769,6 +456822,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||mxwjx.cn^
 ||mxwjy.cn^
 ||mxwy.com^
+||mxx333.net^
 ||mxx777.net^
 ||mxxd99.com^
 ||mxxxxvideos.site^
@@ -457169,7 +457223,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||my.verisk.com^
 ||my.vwjy-7.ru^
 ||my.w.tt^
-||my.whatsappa.hk^
 ||my.wip.la^
 ||my.xactware.co.uk^
 ||my.xactware.com^
@@ -458232,7 +458285,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||myhappylaserco.com^
 ||myhappyshop.online^
 ||myhard.com^
-||myharvesterscu.updatehub.net^
 ||myhastidl.site^
 ||myhauswelt.de^
 ||myhawaiianshirts.de^
@@ -460626,6 +460678,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||n5n.relationsbuddy.com^
 ||n5nx3.cfd^
 ||n5qgv3.icu^
+||n5vx.i-c-81.ru^
 ||n5vx8n.sbs^
 ||n5w9dpx.com^
 ||n60uk.com^
@@ -462800,7 +462853,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||naver-corp.cn^
 ||naver-lgn.com^
 ||naver-partners.com^
-||naver-purchase-order.vercel.app^
 ||naver-quotation-submission.vercel.app^
 ||naver.com/PostView.nhn?$image
 ||naver.com/jackpotlog/
@@ -463670,7 +463722,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||ndepentru.com^
 ||nderfulstatuehelooksj.org^
 ||nderschralle.shop^
-||ndex--login.pages.dev^
 ||ndexij.club^
 ||ndexlogistics.com^
 ||ndexxllog-page.webflow.io^
@@ -465987,6 +466038,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||network-pre.sale^
 ||network-prime.fr^
 ||network-relocation.com^
+||network-resource-zone.com^
 ||network-services.network^
 ||network-telegram.com^
 ||network-telegram.link^
@@ -466047,6 +466099,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||networkntv.com^
 ||networkonlinea.xyz^
 ||networkope.com^
+||networkoxsc-6xtr9zqv-markjones2010s-afk.4everland.app^
 ||networkpattern.com^
 ||networkpb.com^
 ||networkpcigniter.com^
@@ -466459,7 +466512,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||new-amsterdam-lordfilm.ru^
 ||new-analytics-production.threshold360.com^
 ||new-analytics.crocobet.com^
-||new-assignment.weeblysite.com^
 ||new-balance.fr^
 ||new-bgipost.ink^
 ||new-bgpost.icu^
@@ -469703,7 +469755,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||nhgpidvhdzm.vip^
 ||nhgqvqfwb.com^
 ||nhgunforum.com^
-||nhhkl.blogspot.ca^
+||nhhkl.blogspot.al^
 ||nhhmzipaj.com^
 ||nhiemvu.app^
 ||nhiemvu.online^
@@ -470514,6 +470566,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||nikeuk.uk.com^
 ||nikeword-mall.com^
 ||nikey.cn^
+||nikhil-tom369.github.io^
 ||nikichong.com^
 ||nikidallas.com^
 ||nikidmty.cfd^
@@ -471900,6 +471953,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||nn.d42n.ru^
 ||nn.jitidieback.com^
 ||nn.sisternhelves.com^
+||nn.twy-0.ru^
 ||nn.tycoder.xyz^
 ||nn11.vip^
 ||nn11001.com^
@@ -471940,6 +471994,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||nncolas.cfd^
 ||nnctsm.com^
 ||nndaas.space^
+||nndax-logins.pages.dev^
 ||nndbeen.world^
 ||nndmx.shop^
 ||nndq44.de^
@@ -473455,6 +473510,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||noreo.cz^
 ||noreply-amazon.fr^
 ||noreply-assistance-bouyguestelecom.fr^
+||noreply-att.wixstudio.com^
 ||noreply-coinbase.co^
 ||noreply-github.cloud^
 ||noreply-github.dev^
@@ -473857,6 +473913,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||northwindimmigration.com^
 ||northwinds-wyo.com^
 ||northwire.actonservice.com^
+||northwoodaccounts.weebly.com^
 ||northwoodcap.com^
 ||northwoodcycledepot.com^
 ||northwoodsreporter.com^
@@ -474569,6 +474626,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||nouvelle-appl-quantique.com^
 ||nouvelle-aquitaine-aujourdhui.fr^
 ||nouvelle-plateforme-quantique.com^
+||nouvelle-reforme-info.surge.sh^
 ||nouvelleformat.firebaseapp.com^
 ||nouvelleformat.web.app^
 ||nouvellegrevepostecan2.info^
@@ -475269,7 +475327,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||nowuseeitplayer.com^
 ||nowuvcyl.info^
 ||nowvantage.com^
-||nowverify.webflow.io^
 ||nowvertical.com^
 ||nowviolet.com^
 ||nowvynqi.info^
@@ -478041,6 +478098,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||nyptiphyd.com^
 ||nyptububi.com^
 ||nyquazhpvouya.website^
+||nyra-forge.pages.dev^
 ||nyrdyy.com^
 ||nyrelvathumosequi.com^
 ||nyrgw.cn^
@@ -478801,7 +478859,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||oatmealhighlyzealot.com^
 ||oatmealinestimableformidable.com^
 ||oatmealmontleymontleyremove.com^
-||oatmealyeah.com^
 ||oatorammsumdmit.shop^
 ||oatual.com.br^
 ||oaukohmnsqhkok.net^
@@ -480929,6 +480986,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||ofertanajuz.pl^
 ||ofertaoficialnaweb.com^
 ||ofertapty.net^
+||ofertas-ativas.site^
 ||ofertasamericanas.online^
 ||ofertasdasemanaimoveis.site^
 ||ofertasdenatal.site^
@@ -486468,6 +486526,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||onetimensbprofileverification.com^
 ||onetimeoptantoracles.cfd^
 ||onetimesecret.org^
+||onetopmall.top^
 ||onetorch.org^
 ||onetouch.glucose.vn^
 ||onetouch.services^
@@ -486741,7 +486800,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||online-bancamiga.webcindario.com^
 ||online-banking.kb4.io^
 ||online-banners.nl^
-||online-bdo-openid.enauth-realmsprotocol.workers.dev^
 ||online-beverlyhills.com^
 ||online-bia.digital^
 ||online-binomo.com^
@@ -487190,6 +487248,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||onlinemaillife.ru^
 ||onlinemailstorage.com^
 ||onlinemall-de-it.uk^
+||onlinemallo.fit^
 ||onlinemanualsapp.org^
 ||onlinemanualsapptab.com^
 ||onlinemapsearch.com^
@@ -489070,6 +489129,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||opensea-newsletters.com^
 ||opensea-project.com^
 ||opensea-rewards.run^
+||opensea-six.vercel.app^
 ||opensea.click^
 ||opensea2.com^
 ||opensea3.com^
@@ -492045,6 +492105,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||os.tfpe-6.ru^
 ||os.turseshow.com^
 ||os.tvoj5.ru^
+||os.twy0.ru^
 ||os.vudu.com^
 ||os002.com^
 ||os2-claims.com^
@@ -494028,7 +494089,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||outlook-urgent-alert.com^
 ||outlook-weather.com^
 ||outlook-web-access-0e0128.webflow.io^
-||outlook-web-access-65a4cc.webflow.io^
 ||outlook-web-app-26e87e.webflow.io^
 ||outlook.actibebuilding.com^
 ||outlook.amekon.com^
@@ -496189,6 +496249,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||p0qh.vorn5.ru^
 ||p0r9c.icu^
 ||p0rte.site^
+||p0sb.o-b-79.ru^
 ||p0stbo0m.click^
 ||p0ste.fit^
 ||p0y.cn^
@@ -496207,8 +496268,8 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||p1.danskebank.dk^
 ||p1.danskebank.ie^
 ||p1.wa92.top^
-||p1.wa92.vip^
 ||p1.wapak.cc^
+||p1.zi-qa.ru^
 ||p102-clb.allstarcluster.com^
 ||p10tgrace.sbs^
 ||p11448-log-collector.emagames.cn^
@@ -497838,7 +497899,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||page-info.com^
 ||page-info.live^
 ||page-issue-domain-support-info.firebaseapp.com^
-||page-issue-domain-support-info.web.app^
 ||page-link-paybill.online^
 ||page-live-lol.com^
 ||page-live.com^
@@ -502527,7 +502587,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||pay.clubeempiricus.site^
 ||pay.cobrancafeiraosetembro.shop^
 ||pay.coinbese.cc^
-||pay.colocandopagindereferencia.online^
 ||pay.com^
 ||pay.completando-seupagamento.com^
 ||pay.comunityassist.shop^
@@ -503754,7 +503813,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||pbkqwx.info^
 ||pbkunden.com^
 ||pbkww.com^
-||pbl-dstrib.com^
 ||pbl3citto.com^
 ||pblcpush.com^
 ||pblinq.com^
@@ -505503,6 +505561,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||pemuda777.site^
 ||pemudakahfiyk.com^
 ||pemudanu.com^
+||pemuliha4n-akun-danaa.vke.my.id^
 ||pemuteranmenjangan.com^
 ||pemvipshop.com^
 ||pemy.org^
@@ -506921,6 +506980,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||personaltrainerstartup.com^
 ||personaltraineruse.com^
 ||personalwealthhub.com^
+||personalwing.com^
 ||personaly-from.click^
 ||personaly.bid^
 ||personalztrade.site^
@@ -521271,6 +521331,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||portal-atendimento-doc.top^
 ||portal-auth3.com^
 ||portal-bancamigaenlineasuiteve.vercel.app^
+||portal-blockfi.godaddysites.com^
 ||portal-cdn.kelvrion.com^
 ||portal-cdn.mstoresabotaniud.site^
 ||portal-cdn.newmmaintenanhomes.online^
@@ -521736,6 +521797,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||positionhandicraft.com^
 ||positionpasswordwatery.com^
 ||positions-deals.xyz^
+||positionsareavailabled13ifishouldroceed.weebly.com^
 ||positionsuburbdeplorable.com^
 ||positionsupersede.com^
 ||positiont.com^
@@ -524016,6 +524078,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||prasannasambasivan.info^
 ||prasannprabhat.com^
 ||prashanti-baumarkt.com^
+||prashantingale8363-cell.github.io^
 ||praskanke.com^
 ||prasosh.com^
 ||prassas.openapp.link^
@@ -528330,6 +528393,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||project-br.com^
 ||project-gfx.de^
 ||project-istanbul.com^
+||project-kraken-io.pages.dev^
 ||project-limelight.com^
 ||project-lore.com^
 ||project-office03.ru^
@@ -531862,7 +531926,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||pub-07d6a8744a6b4a47a7c4691290289c41.r2.dev^
 ||pub-082b4f0e49914620991d91d041239f8f.r2.dev^
 ||pub-0841a80f059048deb647a765306818fa.r2.dev^
-||pub-089fc651c6d94c6fa7c926754f7d3016.r2.dev^
 ||pub-08dfe0a4f45f47b6b90ac932443e6c2b.r2.dev^
 ||pub-08e5f153316343c0aa3c10c00ee9ae24.r2.dev^
 ||pub-08eddec3e4fe4a24aca67c81f432f70b.r2.dev^
@@ -531979,6 +532042,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||pub-19d5c2c06a864dee8d583bb5341ce322.r2.dev^
 ||pub-19f89163e8ff4f1f813714c9bb40a347.r2.dev^
 ||pub-1a7fa004c1084d53981950dec3793537.r2.dev^
+||pub-1a81c1bf1ebb429791af2df02a775992.r2.dev^
 ||pub-1a8aa840c14e468b8a31b3b237f4c5f8.r2.dev^
 ||pub-1a95203d45984d92bcc1ed3ba7c5b54f.r2.dev^
 ||pub-1a98486900684fd6a29493ee56f2586c.r2.dev^
@@ -532218,7 +532282,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||pub-3824b55e251e4855b75a1be713f7f1cb.r2.dev^
 ||pub-38310d658c474ee995563353ea52cf64.r2.dev^
 ||pub-384819f358494f06b5be0b5af5226eb1.r2.dev^
-||pub-3851b1f1ee704fa3998ff258d1d1008b.r2.dev^
 ||pub-389d64919a554cc4956fa6bcb19fb720.r2.dev^
 ||pub-38b81a81487b452d86ecfd3a873e5640.r2.dev^
 ||pub-38f9ed1fa7fc4cba926a3736af2015b0.r2.dev^
@@ -532875,7 +532938,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||pub-8d4e3f9f7e0d427883d20315ec87c7d1.r2.dev^
 ||pub-8d54a58b398f4a359a41e8dbec805d42.r2.dev^
 ||pub-8d5db9a617e94c679f75231af12453aa.r2.dev^
-||pub-8d79a88a32c64cd382eb08a2651581f9.r2.dev^
 ||pub-8d80ac938c6b433695a7e0831c963d56.r2.dev^
 ||pub-8d878565c246407fa44eff2a35b60ef7.r2.dev^
 ||pub-8da6bb8ac63448f8a5f1ba9b73230e76.r2.dev^
@@ -532976,7 +533038,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||pub-9b5d9eb5e0f34c829334eacd67387487.r2.dev^
 ||pub-9b884cf1530c4e87a772bc4647fc66d3.r2.dev^
 ||pub-9b8fb6b0dea14db297d5ec426fee9437.r2.dev^
-||pub-9bc015fbe2b2492f9e16fe4a547adf8a.r2.dev^
 ||pub-9bde0e4dc1544fc6a0edea45ee022f03.r2.dev^
 ||pub-9bf2272ba85a417ba3ba79898844a138.r2.dev^
 ||pub-9c02975a64e145c7900c943585d915de.r2.dev^
@@ -533057,7 +533118,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||pub-a658346e2a3049dfaf7af5cc914459dd.r2.dev^
 ||pub-a6d1b5d294e74ebfa58fae6d4ec861ef.r2.dev^
 ||pub-a6d891fbc327420f854a23f337d68746.r2.dev^
-||pub-a704d34d293b429d872ca6797ffb1402.r2.dev^
 ||pub-a77332515b294587939bcbfb9b8574ff.r2.dev^
 ||pub-a77375725cbe4ebebbbb725baa062262.r2.dev^
 ||pub-a784a4448830415985f7222bc95939a1.r2.dev^
@@ -533186,7 +533246,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||pub-b8735748a9474ef684b83941ce4cdb65.r2.dev^
 ||pub-b8aece6410254e0eafbd860997dcc12f.r2.dev^
 ||pub-b8b952d8a505484ab427aa76ccb1b407.r2.dev^
-||pub-b8d557d502ff4b20ad52a88c112349ba.r2.dev^
 ||pub-b90e589e43d646f684e78d7904647e68.r2.dev^
 ||pub-b98a3ca97400470c93ca54d6a697b561.r2.dev^
 ||pub-b9af96a23d224955ba27b556afffe9d9.r2.dev^
@@ -533893,6 +533952,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||public-trzrwallet-login-web.pages.dev^
 ||public-uphldlogin-account.pages.dev^
 ||public-upholld-sso-en.pages.dev^
+||public-xi-lemon.vercel.app^
 ||public.clevguard.com^
 ||public.cobrowse.oraclecloud.com/rely/storage/
 ||public.demo.securecloudsandbox.com^
@@ -536909,6 +536969,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||q0a.ru^
 ||q0c2z.icu^
 ||q0h.uht-3-o.ru^
+||q0h3.0ouuky0.ru^
 ||q0jo16uy1r.data.adobedc.net^
 ||q0losid.com^
 ||q0rb.zzax4.ru^
@@ -536964,6 +537025,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||q3-network.com^
 ||q3.dk9a6.ru^
 ||q3.sheh0.ru^
+||q3.yjor.ru^
 ||q30q8faen.bkt.clouddn.com^
 ||q3120711134.cfd^
 ||q32365.com^
@@ -537055,6 +537117,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||q6rvrl49.vip^
 ||q6t9li.com^
 ||q6uso0.sbs^
+||q6yt.o-b-79.ru^
 ||q6z0y0k.top^
 ||q7-taxi.fr^
 ||q7.6i4u.ru^
@@ -538258,6 +538321,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||qgxud.online^
 ||qh.hazingparate.com^
 ||qh.snoozyeatche.com^
+||qh.ziqa.ru^
 ||qh032.com^
 ||qh88.pro^
 ||qhaazaduez.com^
@@ -539144,6 +539208,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||qn.alicantug.top^
 ||qn.dericbeaches.com^
 ||qn.foliesnapps.com^
+||qn.pilot45.com^
 ||qn.pomboeonisms.com^
 ||qn.xapomyo.ru^
 ||qnajplxtvz-a.akamaihd.net^
@@ -543497,6 +543562,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||r3.he-22.ru^
 ||r3.l-75y.ru^
 ||r3.li7ut.ru^
+||r3.m7lo.ru^
 ||r3.m935w.ru^
 ||r3.n4i2m.ru^
 ||r3.n726z.ru^
@@ -545080,7 +545146,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||raje.de^
 ||rajegaonkarprojects.com^
 ||rajeman.com^
-||rajendrakumar08.github.io^
 ||rajendratimes.xyz^
 ||rajesh-exportss.com^
 ||rajeshkovil.com^
@@ -545370,7 +545435,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||rambo.xhamster.com^
 ||rambodazimi.com^
 ||rambunctiousflock.com^
-||ramcharankhv-byte.github.io^
 ||ramcocapcorp.com^
 ||ramcourier-pack.com^
 ||ramdevmatka.com^
@@ -546790,6 +546854,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||raw-co.com^
 ||raw-solid.com^
 ||raw.awaken-network.net^
+||raw.ju5q.ru^
 ||raw.vaticanc2.top^
 ||raw.vidyard.com^
 ||rawa2milk.com^
@@ -547839,7 +547904,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||re-cup-virlbc.pro^
 ||re-de.shop^
 ||re-direct.pl^
-||re-hi-review-issue-check.surge.sh^
 ||re-kreacja.waw.pl^
 ||re-livraison-attente-mondialrelay.com^
 ||re-media.info^
@@ -547967,6 +548031,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||reactivate-device-au.web.app^
 ||reactivate-device.firebaseapp.com^
 ||reactivate-device.web.app^
+||reactivate-subscription.com^
 ||reactivation-amelie-account.info^
 ||reactivation-compte.fr^
 ||reactivation-prime.fr^
@@ -548146,7 +548211,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||reagan-107767.weeblysite.com^
 ||reagan-mail-104191.weeblysite.com^
 ||reagan-mail-109004.weeblysite.com^
-||reagan-webmail-102298.weeblysite.com^
 ||reagan-webmail-107656.weeblysite.com^
 ||reagan-webmail-107666.weeblysite.com^
 ||reagan2021.weebly.com^
@@ -549728,6 +549792,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||redcarpetstrategies.com^
 ||redcash.xyz^
 ||redcavillation.shop^
+||redcert.site^
 ||redcherryglobal.com^
 ||redchipsystem.com^
 ||redcircleunderground.net^
@@ -553350,6 +553415,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||reorganizeglaze.com^
 ||reorganizepretty.com^
 ||reorganizes64.com^
+||reorhdhe.weebly.com^
 ||reoroblox.com^
 ||reorsllc.com^
 ||reotu.vip^
@@ -560533,7 +560599,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||robinhoodllc.top^
 ||robinhoodsecure.sbs^
 ||robinhoodstrades.com^
-||robinhud-logd-account.pages.dev^
 ||robinhuudilogin.gitbook.io^
 ||robinkiss.info^
 ||robinmooreband.com^
@@ -561371,8 +561436,10 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||rohdechaussures.fr^
 ||rohdeschuhewerksverkauf.com^
 ||rohgoruhgsorhugih.ru^
+||rohiiittt09.github.io^
 ||rohillarunteesalduba.cfd^
 ||rohishop.com^
+||rohit-nigam.github.io^
 ||rohitaenterprise.com^
 ||rohitsiddela.com^
 ||rohli-russia.ru^
@@ -565004,6 +565071,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||ru.navvieslizard.com^
 ||ru.net^$third-party
 ||ru.nzki-7.ru^
+||ru.su4n.ru^
 ||ru.video.intl.xiaomi.com^
 ||ru0929-kworki.site^
 ||ru1bit.store^
@@ -567296,6 +567364,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||s-webp2p.letv.com^
 ||s-whatsapp.net^
 ||s-www.ru^
+||s.0ouuky0.ru^
 ||s.0vs-r.ru^
 ||s.0y2i.ru^
 ||s.18ramp.com^
@@ -567803,6 +567872,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||s0drxaq4v7.com^
 ||s0f.org^
 ||s0fthub.com^
+||s0ga.i-c-81.ru^
 ||s0gcq.com^
 ||s0gx.31e854642.online^
 ||s0il.jg-7-ra.online^
@@ -569799,6 +569869,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||sagame168th.com^
 ||sagamzooph.pro^
 ||saganeo.store^
+||sagar-chaturvedi.github.io^
 ||sagargift.com^
 ||sagarikka.com^
 ||sagarsolanki.com^
@@ -571314,6 +571385,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||samuderatajalli.com^
 ||samudraglobalmarine.com^
 ||samuel.bar^
+||samueldpeter2006-tech.github.io^
 ||samuelgendt.com^
 ||samuelhorwood.com^
 ||samuelhourcade.com^
@@ -574372,6 +574444,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||scamptalas.pro^
 ||scamputili.pro^
 ||scamwebsite.com^
+||scan-bb.com^
 ||scan-book.ru^
 ||scan-collab.land^
 ||scan-echo.online^
@@ -575779,7 +575852,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||scooterdearlyshoes.com^
 ||scootershop.com^
 ||scootersupplies.com^
-||scootjames771.activehosted.com^
 ||scootloor.com^
 ||scootwinner.com^
 ||scopateitaliane.it^
@@ -578628,6 +578700,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||secure-binance.net^
 ||secure-blockfi-eng-cdn.gitbook.io^
 ||secure-brclaysmudule.com^
+||secure-bridge-sso-en.pages.dev^
 ||secure-browser.io^
 ||secure-cama.com^
 ||secure-cdn.mplxtms.com^
@@ -578670,6 +578743,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||secure-invce-gc.com^
 ||secure-japan.online^
 ||secure-kleinanzeigen.info^
+||secure-kraken-cdn-auth.pages.dev^
 ||secure-kucoin-web.pages.dev^
 ||secure-kucoin.com^
 ||secure-kyc.com^
@@ -578780,7 +578854,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||secure-via.com^
 ||secure-wa-na.unileversolutions.com^
 ||secure-wallets-trans.live^
-||secure-web-r-bbnhoood.pages.dev^
 ||secure-web3-assets.com^
 ||secure-web3-experience.com^
 ||secure-website.cyou^
@@ -579584,6 +579657,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||securenoaccess.wpenginepowered.com^
 ||securenotsolution.cyou^
 ||securentuedutwteam.weebly.com^
+||secureonlineaccount.zya.me^
 ||secureonlinecontrol.com^
 ||secureonlinedocumentview.s3.eu-central-4.ionoscloud.com^
 ||secureonlineorder.shop^
@@ -579600,7 +579674,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||securepaymentapp.pro^
 ||securepc247.online^
 ||secureplans.org^
-||secureportal-irs-support.pages.dev^
 ||secureportal-santaccesshub.com^
 ||secureportal.online^
 ||secureporter.com^
@@ -580482,6 +580555,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||segun-lordfilm.ru^
 ||segundapeleloja.com^
 ||seguno.com^
+||segurancanome.site^
 ||segurancaprotecao.com^
 ||segurateam.com^
 ||segurazo.com^
@@ -585248,7 +585322,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||servisniy-centr-cisco.ru^
 ||servisol.com^
 ||servitec-serviciotecnico-certificado.site^
-||servithior.dynv6.net^
 ||servitiperu.com^
 ||servitudota.com^
 ||serviunsca.pro^
@@ -588442,7 +588515,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||shaike-relm.weebly.com^
 ||shaikk.com^
 ||shaiksuk.net^
-||shaikyasmeen1.github.io^
 ||shailoahits.net^
 ||shailreeb.com^
 ||shaimabeauty.shop^
@@ -588636,6 +588708,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||shangjindao.vip^
 ||shangjuyike.com^
 ||shangkusportsclud.org^
+||shanglaw.com^
 ||shangmaogang.com^
 ||shangmei-test.oss-cn-beijing.aliyuncs.com^
 ||shangmingbutton.com.hk^
@@ -589222,6 +589295,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||shaunteyaphoenix.com^
 ||shaurin.com^
 ||shaursar.net^
+||shauryaj26.github.io^
 ||shaustourtozids.com^
 ||shauthor.com^
 ||shavaivu.sa.com^
@@ -592799,6 +592873,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||siblpnvryviqz.website^
 ||siblseclomeia.com^
 ||siblseclomeie.com^
+||sibmigrant.ru^
 ||sibnaro.com^
 ||sibnedra.info^
 ||sibnerterer.com^
@@ -595470,6 +595545,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||site-n4o3wid4g.godaddysites.com^
 ||site-n9v2nx1jj4.godaddysites.com^
 ||site-nd66k01c9.godaddysites.com^
+||site-ndpyxzan9.godaddysites.com^
 ||site-nfch5q1l0.godaddysites.com^
 ||site-ni98eb2es.godaddysites.com^
 ||site-o39q4icu7.godaddysites.com^
@@ -595500,6 +595576,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||site-x2us6t9yp.godaddysites.com^
 ||site-xcum5emw8.godaddysites.com^
 ||site-xmp8f9ia3.godaddysites.com^
+||site-xt0wga2kc.godaddysites.com^
 ||site-xyphosara.live^
 ||site-yni2r6so2.godaddysites.com^
 ||site-ypnq2zqaa.godaddysites.com^
@@ -596199,6 +596276,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||sk.hit.gemius.pl^
 ||sk.hqbang.com^
 ||sk.ifuckedyourgf.com^
+||sk.loxr.ru^
 ||sk.nunkicurtals.com^
 ||sk.rainblow.xxx^
 ||sk.starwank.com^
@@ -598218,7 +598296,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||slmnfhzgv.biz^
 ||slmtl.com^
 ||slmvacations.com^
-||slmyxs.cn^
 ||slnk.run^
 ||slnlawoffice.com^
 ||slnoproud.com^
@@ -599084,7 +599161,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||smartbizzonline.com^
 ||smartblockconnect.com^
 ||smartblocker.org^
-||smartbm.weeblysite.com^
 ||smartbn.ru^
 ||smartboardproposal.com^
 ||smartboardtrainer.com^
@@ -599778,7 +599854,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||smbc-cardv94.club^
 ||smbc-cardvby.club^
 ||smbc-cardvnd.club^
-||smbc-cardvs2.club^
 ||smbc-cardw2i.club^
 ||smbc-cardw4e.club^
 ||smbc-cardwfx.club^
@@ -599803,7 +599878,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||smbc.help^
 ||smbc.ichaecwr.com^
 ||smbc.idalus.shop^
-||smbc.vpsoiue.top^
 ||smbcains.com^
 ||smbcapps.com^
 ||smbcaps.link^
@@ -599843,13 +599917,11 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||smbcnikko.8j6kjb.top^
 ||smbcnikko.8qw61m.top^
 ||smbcnikko.99dylt.top^
-||smbcnikko.aic3gd.top^
 ||smbcnikko.gjaox8.top^
 ||smbcnikko.in36f2.top^
 ||smbcnikko.rtpdwc.top^
 ||smbcnikko.s9vedg.top^
 ||smbcnikko.stuka3.top^
-||smbcnikko.t28gan.top^
 ||smbcnikko.xy8q24.top^
 ||smbcnikko.yilx7n.top^
 ||smbco.link^
@@ -608264,7 +608336,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||somethat.com^
 ||something.catchat.us^
 ||something0x.at^
-||something1407.github.io^
 ||somethingaboutmarketing.com^
 ||somethingapparel.com^
 ||somethingbeautiful.es^
@@ -608537,7 +608608,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||sonagapper.pro^
 ||sonagerthrou.com^
 ||sonagtrusc.pro^
-||sonai-eight.vercel.app^
 ||sonaireofficial.com^
 ||sonalikapor.com^
 ||sonamgray.com^
@@ -610652,6 +610722,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||sp.welcometothejungle.com^
 ||sp.wisconsinrapidstribune.com^
 ||sp.wvoil.com^
+||sp.xer-o.ru^
 ||sp.ydr.com^
 ||sp.yelp.com^
 ||sp.yorkdispatch.com^
@@ -610737,6 +610808,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||sp79058.sitebeat.crazydomains.com^
 ||sp808365.sitebeat.crazydomains.com^
 ||sp837032.sitebeat.crazydomains.com^
+||sp838255.sitebeat.crazydomains.com^
 ||sp839895.sitebeat.crazydomains.com^
 ||sp858.com^
 ||sp88097.sitebeat.crazydomains.com^
@@ -612697,6 +612769,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||spiritualforums.com^
 ||spiritualgibbon.pro^
 ||spiritualinstalled.com^
+||spiritualitymeansbusiness.academy^
 ||spiritualllama.pro^
 ||spirituallounge-3000.com^
 ||spiritualsalt.co^
@@ -613586,6 +613659,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||spot-herplex.com^
 ||spot-hiberix-opt.com^
 ||spot-hiprex100.com^
+||spot-ify.vercel.app^
 ||spot-lasix-71.net^
 ||spot-lasix-platform.co^
 ||spot-lasix-platform.net^
@@ -614442,6 +614516,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||sq.mizx.ru^
 ||sq.plenistsmerk.com^
 ||sq.sleaveraceway.top^
+||sq.twy0.ru^
 ||sq4zqk.com^
 ||sq59.cn^
 ||sq6rt.icu^
@@ -615642,6 +615717,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||ssee-mor.re^
 ||sseee-mo.re^
 ||sseekk.xyz^
+||ssei-jyukz.com^
 ||sselet-cbdrst.com^
 ||ssem-sa.com^
 ||ssenindex.vip^
@@ -615775,7 +615851,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||ssl.brandlicensing.eu^
 ||ssl.citgo.com^
 ||ssl.eroscomix.com^
-||ssl.ftp21.cc^
 ||ssl.graham-center.org^
 ||ssl.licensemag.com^
 ||ssl.linyiccic.com^
@@ -616543,6 +616618,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||sswpdd.xyz^
 ||ssx.is^
 ||ssxsmither.com^
+||ssxxrver8888searchfigonline.weebly.com^
 ||ssy28.com^
 ||ssy7.destinia.com.ua^
 ||ssydquy.top^
@@ -616640,7 +616716,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||st386999.com^
 ||st412m.store^
 ||st4y.cyou^
-||st5ft3.lat^
 ||st666.net^
 ||st666.us^
 ||st66605.online^
@@ -618094,6 +618169,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||startsurfing.com^
 ||startswimca.com^
 ||startsystyledstirs.fun^
+||startt-faq-ledger-com-start.typedream.app^
 ||starttab.co^
 ||startthechat.com^
 ||starttofruition.com^
@@ -619092,7 +619168,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||static.zdbb.net^
 ||static.ziffdavis.com^
 ||static.ziftsolutions.com^
-||static.zongheng.com^
 ||static2-advtools.rcsobjects.it^
 ||static20.online^
 ||static6.freebitco.in^
@@ -621444,6 +621519,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||steamaccounts.net^
 ||steamaccounts.org^
 ||steamaccs.com^
+||steamachievementmanager.net^
 ||steamadd.net^
 ||steamadd2.asia^
 ||steamandmorephotography.com^
@@ -623624,7 +623700,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||store-steampowered.ru^
 ||store-steampowereed.ru^
 ||store-tiktokshop.com^
-||store-trzirr.pages.dev^
 ||store-usausps-cam.shop^
 ||store-wellness.shop^
 ||store-whc182.com^
@@ -623643,7 +623718,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||store.cloudsdog.top^
 ||store.communitydevbuild.com^
 ||store.communitygameworks.com^
-||store.communitymarketdev.com^
 ||store.communityshopgame.com^
 ||store.communityshopsource.com^
 ||store.communityuserdevs.com^
@@ -624352,7 +624426,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||strategy-azure.site^
 ||strategy-btc.today^
 ||strategy-give.com^
-||strategy-idd672940153.pages.dev^
 ||strategy-local-ads-manage-id564738291.vercel.app^
 ||strategy-medium.today^
 ||strategy-pump.com^
@@ -625487,6 +625560,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||studentswag.org^
 ||studenttower5.xyz^
 ||studenttrojor.com^
+||studentverifyportal.weebly.com^
 ||studfonean.pro^
 ||studiart.it^
 ||studicinur.pro^
@@ -629193,7 +629267,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||support-infos.com^
 ||support-inquiry.com^
 ||support-inter.webcindario.com^
-||support-io-trez.pages.dev^
 ||support-json.imoim.net^
 ||support-kenwood.fr^
 ||support-konto.top^
@@ -635088,6 +635161,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||t4rct-sdqvw-zbnttg.work^
 ||t4trade.com^
 ||t4u8x.top^
+||t4ub.i-d-96.ru^
 ||t4w5v.top^
 ||t4xx.com^
 ||t5.figurefaceted.ru^
@@ -639313,6 +639387,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||tchekemarket.com^
 ||tchibode.shop^
 ||tchiboutlets.shop^
+||tchiinhemba-frontend-projects.github.io^
 ||tchkcc.cn^
 ||tchouchfimb.com^
 ||tchuf.link^
@@ -647543,6 +647618,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||telstra-106968.weeblysite.com^
 ||telstra-webmail-65423.weebly.com^
 ||telstraaaaaccountttformm.weebly.com^
+||telstraaaalivewebmaillll.weebly.com^
 ||telstraaaamywebmailll.weebly.com^
 ||telstraaccountvalidationsystem.framer.website^
 ||telstraaweeebmail.weebly.com^
@@ -647562,6 +647638,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||telstrawebmailinboxc.weebly.com^
 ||telstrazzplussupport.weebly.com^
 ||telstrraaaauserssss.weebly.com^
+||telstrraawebmailer.weebly.com^
 ||telstrraserviice.weebly.com^
 ||telsyfhjkfdhjbnklkjfknj.weebly.com^
 ||telsyutreas.weebly.com^
@@ -647745,7 +647822,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||templatehelp.com^
 ||templatekingdom.com^
 ||templatemadness.com^
-||templateoctoberstudi.wixstudio.com^
 ||templates-store.ru^
 ||templates-store.store^
 ||templates.buscape.com^
@@ -651505,6 +651581,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||thecouponsapp.com^
 ||thecoupontime.com^
 ||thecourageousfemales.com^
+||thecourierguy-ten.vercel.app^
 ||thecourierguy-za.info^
 ||thecourieriguy.weebly.com^
 ||thecouriierguys.weebly.com^
@@ -658043,6 +658120,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||tk-intl.com^
 ||tk-intlshopping.com^
 ||tk-intlshopping.shop^
+||tk-ioksml.life^
 ||tk-ioksml.pics^
 ||tk-kontor.de^
 ||tk-live-mfq6zx5uv2.site^
@@ -658223,6 +658301,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||tk.meinprospekt.de^
 ||tk.moveyourfit.com^
 ||tk.msccruises.com^
+||tk.n-jur.ru^
 ||tk.nhlottery.com^
 ||tk.oakumdimpled.com^
 ||tk.opinion-assurances.fr^
@@ -659622,6 +659701,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||to.torrentfreak.com^
 ||to.uptime.app^
 ||to.vzj1o.ru^
+||to.zi-qa.ru^
 ||to1s.biz^
 ||to2-web.com^
 ||to28.com^
@@ -671822,6 +671902,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||trccvt.dhc.co.jp^
 ||trcdingview.com^
 ||trcdnbn-tr65123123.com^
+||trcerrwallet.webflow.io^
 ||trcezatc.org^
 ||trchn.cloud^
 ||trcjiance.com^
@@ -672219,6 +672300,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||treipblog.com^
 ||trejiocroo.sa.com^
 ||treju.fullyvirtualsolutions.com^
+||trejzrlogin.gitbook.io^
 ||trek-city.click^
 ||trek.powtoon.com^
 ||trekachy.com^
@@ -672819,12 +672901,12 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||trezor-bridge-info.live^
 ||trezor-bridge-online.pages.dev^
 ||trezor-bridge.com^
+||trezor-briges.pages.dev^
 ||trezor-cm-io.pages.dev^
 ||trezor-defender.com^
 ||trezor-finance.ru^
 ||trezor-guardian.com^
 ||trezor-hardware-wallet-cnc.pages.dev^
-||trezor-help-bridge--app.pages.dev^
 ||trezor-helpdiagnostics.com^
 ||trezor-hub-app.cc^
 ||trezor-insurances.com^
@@ -672857,7 +672939,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||trezor-us-start-io.pages.dev^
 ||trezor-us.com^
 ||trezor-walet-web.pages.dev^
-||trezor-wallet-connect-login.pages.dev^
 ||trezor-wallet-know.pages.dev^
 ||trezor-wallet-login-eo.pages.dev^
 ||trezor-wallet.ru^
@@ -672897,6 +672978,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||trezordisconnect.com^
 ||trezordz.com^
 ||trezorenabled.com^
+||trezorewaletz.webflow.io^
 ||trezorfin.ru^
 ||trezorfinance.ru^
 ||trezorhardwarecheck.com^
@@ -672954,6 +673036,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||trezorwebsupport.com^
 ||trezory.net^
 ||trezosuite.vercel.app^
+||trezosuiteapp.vercel.app^
 ||trezova.com^
 ||trezr-io-support.pages.dev^
 ||trezr-iosuits.pages.dev^
@@ -675903,7 +675986,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||trustwavesafe.com^
 ||trustwax.com^
 ||trustwclet.ing^
-||trustweb.vercel.app^
 ||trustweb3cfdone.com^
 ||trustwebconnect.live^
 ||trustwebshop.info^
@@ -680412,6 +680494,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||u-sp-sredirec.firebaseapp.com^
 ||u-sp-sredirec.web.app^
 ||u-swap.org^
+||u-t-p-ac-pa.weebly.com^
 ||u-t-p.weebly.com^
 ||u-telcom.net^
 ||u-telegram.com^
@@ -680955,6 +681038,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||uac.mk.co.kr^
 ||uacasino.sbs^
 ||uachieveit.com^
+||uaclmicrosoft365.weebly.com^
 ||uact7.info^
 ||uacugnyezgqvp.site^
 ||uacyxz.art^
@@ -682826,6 +682910,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||ui.pecuniaaleshot.top^
 ||ui.rk-8-y-6.ru^
 ||ui.videojav.com^
+||ui.x-vo4.ru^
 ||ui02.com^
 ||ui1111.com^
 ||ui12op.help^
@@ -686328,6 +686413,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||uniswap-claim-today.run^
 ||uniswap-claim2024.run^
 ||uniswap-claim24.run^
+||uniswap-clone-psi.vercel.app^
 ||uniswap-exchange-uniswap.org^
 ||uniswap-exchange.app^
 ||uniswap-insights.com^
@@ -687977,7 +688063,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||upasak.com^
 ||upasiansex.com^
 ||upasiji.top^
-||upaulhold-logaiinus.godaddysites.com^
 ||upaviy.com^
 ||upaya.co.in^
 ||upayasquin.qpon^
@@ -688152,6 +688237,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||updated.com^
 ||updatedailybriefing.com^
 ||updatedue.com^
+||updatee-en-coinpro.pages.dev^
 ||updateeluiss.weebly.com^
 ||updateenow.com^
 ||updatef.art^
@@ -688379,6 +688465,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||upheapshalifax.cfd^
 ||uphearibuz.pro^
 ||upheartbreakhill.com^
+||uphholdrlloggiiii.godaddysites.com^
 ||uphillgrandmaanger.com^
 ||uphitmonchanon.com^
 ||uphivusxd.com^
@@ -688707,6 +688794,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||ups-express-parcel.com^
 ||ups-flow-harvester.lovable.app^
 ||ups-gefolgtpaket.de^
+||ups-giobal.com^
 ||ups-infos-lieferung.com^
 ||ups-kontaktieres-de.com^
 ||ups-notify.com^
@@ -689872,7 +689960,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||us-east-coinbase.com^
 ||us-east1-netdata-analytics-bi.cloudfunctions.net^
 ||us-en-coinnbase-strt.pages.dev^
-||us-en-ledgar-wallet.pages.dev^
 ||us-etcac.vip^
 ||us-etcae.vip^
 ||us-etcak.vip^
@@ -690809,7 +690896,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||user2332.royal-hosting.ru^
 ||user55.titanichost.com^
 ||user971cb.site^
-||userabhijit.github.io^
 ||useraccount.help^
 ||useraccountupdate.com^
 ||useraccoutpi.webcindario.com^
@@ -693946,6 +694032,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||v.shopify.com^
 ||v.strosin.biz^
 ||v.topya.com^
+||v0.b2-ra.ru^
 ||v00.link^
 ||v00003.vip^
 ||v00lny33.weebly.com^
@@ -694288,7 +694375,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||v4-dex-av.app^
 ||v4-onchain-multiswap.cc^
 ||v4-onchain-userpermit.cc^
-||v4-pancake-swap.app^
 ||v4-protokols.com^
 ||v4-soniclabs.com^
 ||v4-swap-av.app^
@@ -695998,6 +696084,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||varsitygamingshowdown.com^
 ||varsityoversized.com^
 ||varsitysportsarena.com^
+||varsri24.github.io^
 ||varsuntex-app.com^
 ||varsuntexapp.com^
 ||vartoken.com^
@@ -698626,7 +698713,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||verificare-le-informazioni2025.info^
 ||verificarseucheck.sbs^
 ||verificatie.info^
-||verification-107236.weeblysite.com^
 ||verification-account.start.page^
 ||verification-apple.com^
 ||verification-assistance.online^
@@ -709465,6 +709551,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||w14g.xyz^
 ||w14h.xyz^
 ||w14j.xyz^
+||w14m.xyz^
 ||w14n.xyz^
 ||w14o.xyz^
 ||w14s.xyz^
@@ -709650,7 +709737,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||w3ta.fv0-93.ru^
 ||w3tba66dm.com^
 ||w3track.com/newtrk/$third-party
-||w3villa-rajveer-singh.github.io^
 ||w3wdelivery.fun^
 ||w3x3eev5u3t.shop^
 ||w3ytzqm3d.com^
@@ -709681,6 +709767,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||w4.m-89a.ru^
 ||w4.n-4cas.ru^
 ||w4.o-92h.ru^
+||w4.r8li.ru^
 ||w4.rxhvt.ru^
 ||w4.w-57e.ru^
 ||w4.x331e.ru^
@@ -709754,6 +709841,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||w6xdba54n.com^
 ||w7.4y328.online^
 ||w7.berlin.de^
+||w7.slaq.ru^
 ||w7044.com^
 ||w716eb02n9.ru^
 ||w740.newstimes.com^
@@ -710566,7 +710654,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||wallet-token-fix.web.app^
 ||wallet-tokenpocket.com^
 ||wallet-trezur-io.pages.dev^
-||wallet-trezur-support.pages.dev^
 ||wallet-trzur-en-us.pages.dev^
 ||wallet-tx-blockchain.info^
 ||wallet-x-ledgerlive.pages.dev^
@@ -710640,7 +710727,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||walletstatement.info^
 ||walletston.com^
 ||walletswarm.xyz^
-||wallett-connect.github.io^
 ||wallettechsupport.com^
 ||wallettogold.com^
 ||wallettrace.xyz^
@@ -710826,6 +710912,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||waltsbarbeque.com^
 ||waltzinformation.com^
 ||waltzmice.com^
+||waluetxpohantom.webflow.io^
 ||waluteo.pl^
 ||walvionic-app.net^
 ||walworthbruns.com^
@@ -712787,7 +712874,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||wdemtgvo.company^
 ||wdesunz1008.vip^
 ||wdfacosi.wpdevcloud.com^
-||wdfcsefcuonlineknewver.weebly.com^
 ||wdfgrhfewd.shop^
 ||wdfieldteam.com^
 ||wdfire1.woodlanddirect.com^
@@ -713451,6 +713537,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||web-ivcbrasil-tag.s3.us-west-2.amazonaws.com^
 ||web-kaiseki.net^
 ||web-konto74.weebly.com^
+||web-kucoins-en-web.square.site^
 ||web-ledger-log-in-learn.pages.dev^
 ||web-live-kaiyunsports.com^
 ||web-live-mgtiyu.com^
@@ -714764,6 +714851,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||webmailaspczit.weebly.com^
 ||webmailattmail001.webflow.io^
 ||webmailaustraila.weebly.com^
+||webmailauth9586.weebly.com^
 ||webmailbellaccount.weebly.com^
 ||webmailboxsecurity.weebly.com^
 ||webmailbusinesscloudauthsso21.objects.liquidweb.services^
@@ -714777,7 +714865,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||webmaileee.weebly.com^
 ||webmailexeculink21.weebly.com^
 ||webmailforensictool.com^
-||webmailglovetcom9f6407df80e.firebaseapp.com^
 ||webmailglovetcom9f6407df80e.web.app^
 ||webmailhgjk.weebly.com^
 ||webmailhtpnetappsuites.weebly.com^
@@ -716187,7 +716274,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||weks.net^
 ||wekswrites.store^
 ||wekwwkeor.icu^
-||wel-come-coinbase-public.typedream.app^
 ||wel-sicn-itpy.liveblog365.com^
 ||wel-wel-fie.com^
 ||welabubu.fr^
@@ -716219,6 +716305,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||welcome-sovet.store^
 ||welcome-trezor-io-start.free.site.pro^
 ||welcome-trzor.typedream.app^
+||welcome-upholdcom-auth.typedream.app^
 ||welcome-weather.pro^
 ||welcome-web.com^
 ||welcome-xrp.com^
@@ -717495,6 +717582,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||wf.rerollsboldest.com^
 ||wf.silicicfarcied.com^
 ||wf.typesquare.com^
+||wf.zi-qa.ru^
 ||wf03link.firebaseapp.com^
 ||wf03link.web.app^
 ||wf2000.com^
@@ -718226,6 +718314,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||whats-xwy.vip^
 ||whats-xya.vip^
 ||whats-xyd.vip^
+||whats-xyf.vip^
 ||whats-xyq.vip^
 ||whats-xys.vip^
 ||whats-xyu.vip^
@@ -718599,6 +718688,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||whatsapp-wsa.com^
 ||whatsapp-wsd.com^
 ||whatsapp-wss.top^
+||whatsapp-wssa.com^
 ||whatsapp-wucv.asia^
 ||whatsapp-wudv.asia^
 ||whatsapp-wv.com^
@@ -722761,6 +722851,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||wj.pizazzspumoid.com^
 ||wj.upheapspicine.com^
 ||wj.whudpulques.com^
+||wj.x-vo4.ru^
 ||wj5jphd9d.com^
 ||wj666.rhythmsnet.org^
 ||wj78l-qebi5z-clostx.work^
@@ -723165,6 +723256,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||wm.quoddedmisfare.com^
 ||wm.szdushi.com.cn^
 ||wm.vxof.ru^
+||wm.xer-o.ru^
 ||wm01.to^
 ||wm2026shop.de^
 ||wm7ih.icu^
@@ -726336,7 +726428,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||ws.sharethis.com^$script
 ||ws.sj.qq.com^
 ||ws.walla.co.il^
-||ws.whatsappa.hk^
 ||ws.zoominfo.com^
 ||ws057.cn^
 ||ws064.cn^
@@ -726361,6 +726452,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||wsapp-whcts.com^
 ||wsappat.com^
 ||wsappwhats.com^
+||wsaq2.bet365999555.com^
 ||wsasdapp.top^
 ||wsbcard.s3.dualstack.us-east-1.amazonaws.com^
 ||wsbciszmflb.work^
@@ -727318,6 +727410,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||ww2.imgwallet.com^
 ||ww2.kino.ws^
 ||ww2.lmi123.com^
+||ww2.plgyuil.eu.org^
 ||ww2.proshop.at^
 ||ww2.proshop.de^
 ||ww2.proshop.dk^
@@ -727923,6 +728016,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||www-relivr-pickup.com^
 ||www-removeadsmanage2025.info^
 ||www-retrait-mrelay.com^
+||www-robinhood-com-login-page.typedream.app^
 ||www-robinhood.hkjichu.com^
 ||www-robiox.com^
 ||www-roblox-com.com^
@@ -729142,7 +729236,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||www3-coinbase.com^
 ||www3-vpass-jp.eyecatchersdisplay.com^
 ||www3-vpass-jp.hhqzr.cn^
-||www3-vpass-jp.hnmsjk.com^
 ||www3-vpass-jp.xmzcmj.com^
 ||www3-vpass.gohongmu.com^
 ||www3.32hy.com^
@@ -730457,6 +730550,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||x2-xrp.live^
 ||x2.5e6a.ru^
 ||x2.ahz-ya.ru^
+||x2.b2-ra.ru^
 ||x2.cm^
 ||x2.ggseocdn.com^
 ||x2.nibulu.ru^
@@ -730508,6 +730602,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||x2tsa.com^
 ||x2y2.cfd^
 ||x2y2.link^
+||x2z.7aoasu3.ru^
 ||x2z1s.top^
 ||x3-policy-maker.goguardian.com^
 ||x3-predictor.goguardian.com^
@@ -730771,6 +730866,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||x7.gokenin.com^
 ||x7.o-a4eu.ru^
 ||x7.ohugi.com^
+||x7.plx-5.ru^
 ||x7.xt7y8.ru^
 ||x70.nq8e9.ru^
 ||x70c.xyz^
@@ -730907,6 +731003,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||x9n3d5k2r7h0.xyz^
 ||x9ner.anygay.com^
 ||x9on836121q.shop^
+||x9pa.o-b-79.ru^
 ||x9pn.top^
 ||x9s9k.com^
 ||x9t7g4m2qk2.azurewebsites.net^
@@ -731704,6 +731801,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||xd.bb3y5.ru^
 ||xd.harvardslubby.help^
 ||xd.moltenmimidae.com^
+||xd.su4n.ru^
 ||xd.t-65-p.ru^
 ||xd2dd.com^
 ||xd5.rxir9.ru^
@@ -732305,6 +732403,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||xfinity.bimlarge.com^
 ||xfinity.com.ssl.sc.omtrdc.net^
 ||xfinity.com/event/
+||xfinity778836.weebly.com^
 ||xfinitycare.free.site.pro^
 ||xfinitycentre.weebly.com^
 ||xfinityconnect.bimlarge.com^
@@ -738336,6 +738435,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||y3gy9ymhq.world^
 ||y3jwu63xzz.shop^
 ||y3ng.top^
+||y3pq.i-c-81.ru^
 ||y3qplm.xyz^
 ||y3sj8i5n32.shop^
 ||y3tb.cdn-6-38.ru^
@@ -738372,6 +738472,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||y4vnx.xyz^
 ||y4y9.com^
 ||y5.hnaq6.ru^
+||y5.yjor.ru^
 ||y53a09txb5ntt-pages-dev.translate.goog^
 ||y54wdrg.com^
 ||y563.top^
@@ -738390,6 +738491,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||y5e14up.top^
 ||y5i7fcp0z2vdv.life^
 ||y5j7.lat^
+||y5n.0ouuky0.ru^
 ||y5nf1.cyou^
 ||y5nwrv.cyou^
 ||y5qhzz3q.designdetails.fm^
@@ -739579,6 +739681,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||yb.hoodlumbragget.com^
 ||yb.midlegvaliant.shop^
 ||yb.pekinkibla.com^
+||yb.su-4n.ru^
 ||yb.w20s.ru^
 ||yb077.cfd^
 ||yb12316.com^
@@ -744092,6 +744195,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||ysecure.help^
 ||ysefkj.bond^
 ||ysepsy.com^
+||ysera-link.pages.dev^
 ||ysesials.net^
 ||ysetse.club^
 ||ysexy.org^
@@ -744503,6 +744607,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||yu.milkingchry.com^
 ||yu.mindingditali.top^
 ||yu.uncodedsmoothy.com^
+||yu.xvo4.ru^
 ||yu0123456.com^
 ||yu0287tk.com^
 ||yu123sp.com^
@@ -746141,6 +746246,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||z3gd2adjd3.icu^
 ||z3k1p.top^
 ||z3lebsolutions.com^
+||z3mp.4-l8u.ru^
 ||z3n2h.top^
 ||z3ppfes2qx.com^
 ||z3prn7.sbs^
@@ -749720,7 +749826,6 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||zhengtuzhekeji.com^
 ||zhengxi.store^
 ||zhengxingmj.com^
-||zhengxinpeixun.oss-cn-qingdao.aliyuncs.com^
 ||zhengxuanpin.com^
 ||zhengyoumetal.com^
 ||zhengyuankuaiji.cn^
@@ -750379,6 +750484,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||zimayaperfumes.fr^
 ||zimbanilnowe.firebaseapp.com^
 ||zimbanilnowe.web.app^
+||zimbbra.webflow.io^
 ||zimbediate.pro^
 ||zimbfree.weebly.com^
 ||zimbhelpdesk.weebly.com^
@@ -751122,6 +751228,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||zl.mushersegence.com^
 ||zl.soilykwachas.com^
 ||zl.tessgyron.com^
+||zl.vuln5.ru^
 ||zl153b.sbs^
 ||zl55bet.com^
 ||zl87-32.com^
