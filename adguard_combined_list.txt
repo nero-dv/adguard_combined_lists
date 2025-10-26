@@ -143624,6 +143624,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||blcdog.com^
 ||blchkr.com^
 ||blck-apt.team^
+||blck.pages.dev^
 ||blckaddol.center^
 ||blckfrdcreative.com^
 ||blckqy.com^
