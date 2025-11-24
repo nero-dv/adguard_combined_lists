@@ -100049,6 +100049,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||almoldservicefr.firebaseapp.com^
 ||almoldservicefr.web.app^
 ||almondblossomlabradors.com^
+||almondbuns.com^
 ||almondchatterbox.com^
 ||almondhusky.pro^
 ||almondmastiff.pro^
@@ -491332,6 +491333,7 @@ visible.com##+js(set-local-storage-item, browser-ids, $remove$)
 ||originaluniversity.shop^
 ||originatecrane.com^
 ||originaten.com^
+||originblocks.com^
 ||origincover.com^
 ||origincrack.com^
 ||origincracknerves.com^
